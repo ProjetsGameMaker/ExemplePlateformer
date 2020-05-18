@@ -1,0 +1,30 @@
+{
+    "id": "90fd2b2a-322b-4346-97b0-009ca0a91114",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "90fd2b2a-322b-4346-97b0-009ca0a91114",
+    "children": [
+        "5a916873-a9f8-43fd-b64c-1ba935126b50",
+        "c82e950d-f049-4a1d-a866-7c871e548258",
+        "8ffd006c-0217-4864-94af-b26892aae1ec",
+        "daaf9f2b-a571-4778-a0e7-bee2e0f89de8",
+        "d999bf38-5f26-4521-b515-ca6ec500e64f",
+        "badf7e43-ac86-47ec-8dd5-7f34bd6f8e65",
+        "f5bb2199-55c8-4056-9cee-6acc9496006a",
+        "173a6be8-32e9-4028-9a24-8e15d158d164",
+        "dc4152e7-c81d-4303-a44c-fe4d50bfc4db",
+        "51d61ff6-a09b-4b70-ad5c-7d737220a371",
+        "bf1a74c7-90bf-41d0-bd76-b66655c4737d",
+        "66d20f0a-c575-47ad-a032-eec277300d16",
+        "4e01075c-777c-483c-b3d8-1c1a55105da5",
+        "2e60a7ea-d504-4015-ac9d-f940201b54c4",
+        "bbd033af-f75e-4fd3-baeb-5431dbe817f6",
+        "77683686-f30c-408b-83e9-6123178af69e",
+        "63c9259c-91cb-439b-8ae4-c6855c51a8e6",
+        "f650c36f-f1e1-4fc2-8ae8-e9aceb63e68d"
+    ],
+    "filterType": "GMIncludedFile",
+    "folderName": "Player Green",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

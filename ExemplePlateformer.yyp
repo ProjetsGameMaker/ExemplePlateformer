@@ -31,11 +31,115 @@
     },
     "resources": [
         {
+            "Key": "00680d6f-1f09-4dca-ba34-0c1d94e566cb",
+            "Value": {
+                "id": "1d07c210-f676-4a32-a9c8-892c469010c6",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_01.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "00bf2862-f9f1-4d85-95a3-5093fd4bd03e",
+            "Value": {
+                "id": "a93dd489-011c-4654-879c-18fcc2fb811c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\signArrow_TL.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "00d67b17-c2cc-4c54-9a50-b591232d8eb4",
+            "Value": {
+                "id": "6496ee8c-1219-46c4-a1da-1b19eefa74e3",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\fluidGreen.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "0121b8a6-0759-44fe-b64c-232e609a169a",
             "Value": {
                 "id": "d14203a8-0f1f-405d-a5fb-52b66afa6a36",
                 "resourcePath": "sprites\\spr_PlayerWalk\\spr_PlayerWalk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "018a48d4-b339-44f4-8f3e-12a751eafd97",
+            "Value": {
+                "id": "e9f5a849-1e84-4227-8ddc-f2632830d1e4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantDark_6.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "01f9ba26-f345-4408-8af1-be0f00e26883",
+            "Value": {
+                "id": "1cfa2a30-03d2-490c-b889-a29c05462d3d",
+                "resourcePath": "datafiles_yy\\Assets\\Spritesheet\\spritesheet_players.xml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "01f9e588-ea9e-458c-b6ab-8ebe71dbd67e",
+            "Value": {
+                "id": "616ba218-35d1-46b0-ba6d-74285ef41d00",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantStem_cross.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "031a94cb-dbcc-44e2-b25d-07eec4bfb165",
+            "Value": {
+                "id": "7297fd33-4d98-4fd9-b85f-a6d0299c4f80",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemySwimming_4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "033c2b02-67bf-4733-a0d8-2b5150e27cd0",
+            "Value": {
+                "id": "323bcbd2-1ce2-4ed2-8aac-4c6fbb5f529e",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_11.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "047d5913-b765-4a81-aa27-9b1659a770d9",
+            "Value": {
+                "id": "8f62d3d0-6521-4b10-99c0-ee94c6ceeb03",
+                "resourcePath": "views\\047d5913-b765-4a81-aa27-9b1659a770d9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "04893751-d55d-4de2-a1b8-ff0d425fe60c",
+            "Value": {
+                "id": "7c8075ee-15ad-4c7e-a2ee-9a65c20bc438",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_01.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "04f10e88-2eb0-43bc-b280-63eabcb41660",
+            "Value": {
+                "id": "799d0843-a317-4ab8-8a12-dff611c1a77b",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_16.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "04fa2a59-e600-46cf-a1f0-11842f5894c0",
+            "Value": {
+                "id": "e8177653-feb1-4342-a0ab-77cd5c92a42c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantGreen_1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0576ea2b-bbbf-452e-a4a3-c28a4ae99321",
+            "Value": {
+                "id": "63b2ba90-079a-45be-9aff-6991939c9864",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_22.png.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -47,6 +151,350 @@
             }
         },
         {
+            "Key": "05cdd46a-a384-4680-8c4c-415684c4d282",
+            "Value": {
+                "id": "5f021878-630d-429f-a3cb-9b0de7a5f8ad",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_stand.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "062c44e8-2c9c-4c2b-9bc3-8c2b1dab6751",
+            "Value": {
+                "id": "efcea1a4-fe09-4fe7-bc8f-58fc51615b74",
+                "resourcePath": "datafiles_yy\\Assets\\Spritesheet\\spritesheet_players.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "067a1de0-c10b-497e-a3ba-9b16d9a0efec",
+            "Value": {
+                "id": "215fa894-7d33-49ef-8fb4-e3a3ede2fd1f",
+                "resourcePath": "datafiles_yy\\Assets\\Spritesheet\\spritesheet_items.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "078e2afa-afa6-4d5e-ad02-6e7dea83ab64",
+            "Value": {
+                "id": "8dfe259a-4a52-4b8b-bac3-44d07dbef175",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_24.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "07c59f20-f02c-4120-9dfd-04facd811eb3",
+            "Value": {
+                "id": "d0c59051-0f2a-487a-85e5-10543d99e8ee",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_fall.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "08ea1170-8d84-47c0-baa1-a6d09cef2418",
+            "Value": {
+                "id": "1585bdbd-7743-4f0c-abe5-0c5206f7a811",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\blockGreen_key.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0a7e68d4-733d-47a8-8fff-a83b04324f44",
+            "Value": {
+                "id": "d4a17757-6fc3-490b-a8ac-5f5455cbe631",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantLeaves_3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0aca2e40-e707-4bbc-91b4-7fae0fd096a3",
+            "Value": {
+                "id": "a50bb698-e2a8-4430-898c-c3f50e305f54",
+                "resourcePath": "datafiles_yy\\Assets\\Vector\\vector_backgrounds.swf.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0dda8980-1a76-4b67-a289-736e95fce7ba",
+            "Value": {
+                "id": "f80f7a5f-8969-497b-9d55-2dd2eda0acbb",
+                "resourcePath": "sprites\\spr_Square\\spr_Square.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0ebf2ae5-3bf9-41db-bd3c-5f384e030460",
+            "Value": {
+                "id": "24861073-07b7-4b86-b6a8-d5d9987ee8d9",
+                "resourcePath": "views\\0ebf2ae5-3bf9-41db-bd3c-5f384e030460.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0ec7da06-88ec-4ca4-93ba-566dce5c8ce3",
+            "Value": {
+                "id": "4763a06b-36f0-4a84-98e5-e0b0241644a1",
+                "resourcePath": "datafiles_yy\\Assets\\Spritesheet\\spritesheet_items.xml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0f4aca6b-b0e5-420a-b45a-c19385f5ff37",
+            "Value": {
+                "id": "0745611c-1ee8-4952-8d64-5545a2c70bec",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_12.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0f5f5d41-631a-4dbd-80e4-5578fc96d7c4",
+            "Value": {
+                "id": "47de9e41-789c-4160-af88-379bbe894c56",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\signArrow_BL.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0f6acf7d-e1c5-4234-ac74-12561094e8b9",
+            "Value": {
+                "id": "5c831535-ac17-4599-b874-f8481f5a0458",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\Thumbs.db.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0fda8a7d-15bc-4cc4-a4cf-63a4c2d4d1ed",
+            "Value": {
+                "id": "251888c2-6496-4244-bb3b-1d7c073faff4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantBottom_1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "10cfd584-9dbe-4fc4-babe-dee9beb961b9",
+            "Value": {
+                "id": "f74ed115-e69e-428c-a06b-cc6ddd78d177",
+                "resourcePath": "datafiles_yy\\Assets\\Sample.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "10e4313a-a499-41f1-aa87-2ca73970a2f4",
+            "Value": {
+                "id": "bca9d4fb-3cb5-4ea6-9a66-88cc98048134",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantStem_cornerRight.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "111ed515-553e-4df3-a69f-ca30be869e11",
+            "Value": {
+                "id": "61a0e486-9964-4939-83aa-792073283acc",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_03.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "112d480d-ea8a-4aaa-960a-adda8dbf63ce",
+            "Value": {
+                "id": "1dbb25f2-c418-4e15-9c97-49ea3d9ba0b1",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_26.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1180e0ad-f4b3-4545-8b2c-4a9f7c7117ae",
+            "Value": {
+                "id": "19aabc0a-b152-4a7b-bb11-f00a947ccac6",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_fall.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "119cadc2-3923-4a8d-9c1b-98703e7c8e97",
+            "Value": {
+                "id": "bc0c1a88-c150-46e1-9f51-eaf0002bc4d2",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\fluidRed.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1280bc91-54bf-4abd-93b6-078b5fe99721",
+            "Value": {
+                "id": "59e55468-1a96-4467-b883-beec77261d62",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_18.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "15c5f58f-7578-47c8-9021-257b64d2caed",
+            "Value": {
+                "id": "7f3303f2-242a-4710-91d9-34d5618ac2fe",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\doorRed.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1616eb83-e789-4c0a-8991-b1184f5ef958",
+            "Value": {
+                "id": "493e7c67-2eb7-465f-938a-67cef981b14e",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\blockGrey_broken.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "16390a13-1fce-44a2-a651-d3517edabbe8",
+            "Value": {
+                "id": "c100d516-5d3b-4e0d-bcba-7ef694be8578",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_stand.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "16682ad0-6ffc-4f1e-b6a3-35252d1f2b83",
+            "Value": {
+                "id": "985be2ba-caeb-4e31-96e8-61e603e055c9",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_10.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "168a83b7-4294-4f6c-b54a-912e82a040f2",
+            "Value": {
+                "id": "175db42b-d4e2-4176-9ee9-3ebd63bb222b",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemySwimming_3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "171d3447-555a-46c5-8b9d-d368e5c7367b",
+            "Value": {
+                "id": "6f4c1dfe-3c18-431b-a48c-01ef4bf881a3",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\fluidBlue.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "173a6be8-32e9-4028-9a24-8e15d158d164",
+            "Value": {
+                "id": "63e4b93d-86ab-465c-99d7-f99b5fd14864",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_switch1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1806e7b2-9fe2-4d2c-9254-56c8fe958486",
+            "Value": {
+                "id": "f3f8e996-4c71-4fd3-836f-8b37973b9e52",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Backgrounds\\set3_tiles.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "18741231-ac3a-43c1-89cb-8757c920f3b7",
+            "Value": {
+                "id": "606009da-4612-4d73-ba11-e5505703d16c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_roll.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "191136c5-d2d2-4d36-be0f-93323ba1c0f8",
+            "Value": {
+                "id": "63e8577b-708a-47be-8759-351122a6a8c6",
+                "resourcePath": "views\\191136c5-d2d2-4d36-be0f-93323ba1c0f8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "195c1bbb-5450-4404-9c47-361c1a2362be",
+            "Value": {
+                "id": "cea39e82-e630-4446-b7a6-12fb1112cf30",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_24.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "19609097-ce1c-4969-b7eb-d5776196c164",
+            "Value": {
+                "id": "6688a15e-a87c-4a0a-916b-7e38d3ef11c4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Backgrounds\\set3_background.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1a926d09-0acc-46b6-8c9c-6616bd2b2578",
+            "Value": {
+                "id": "fdc98c90-1c02-4fc3-82d5-cbb0c9ef6e98",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\fence.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1c991252-1320-4458-b0ec-fad8d7bd92b2",
+            "Value": {
+                "id": "a5abc7f1-e902-4d1c-bf6b-3e8f5ec71ef6",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantGreen_5.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1d9849dc-35bc-44f6-9a62-d6f2a2efb892",
+            "Value": {
+                "id": "9a1958cc-76a9-49fa-a522-ff36f0f2c981",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\spikesHigh.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1e64dc11-6142-4fbf-8997-f756a6a8db87",
+            "Value": {
+                "id": "2309f132-7080-4f0a-8367-81269e904fb1",
+                "resourcePath": "datafiles_yy\\Assets\\Preview_KenneyNL.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1f1e07b9-b713-46fe-b8ff-8e576b1ca943",
+            "Value": {
+                "id": "67f87592-6ddd-4d5b-b4a5-9a382dca9de4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_13.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1f58f1e2-0c36-421c-8a94-2fd6d71bc825",
+            "Value": {
+                "id": "dfc9ec9e-4a00-438b-bebf-5e6bbfce1ff5",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_10.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "201eb2fe-2840-4013-8af1-48853b40fb87",
+            "Value": {
+                "id": "305ad8ac-40be-4de8-90f5-033417502200",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantBlue_4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "20202761-d76d-43d4-be9f-1c074c456aa6",
+            "Value": {
+                "id": "b82bef7e-7014-47c2-9f06-5d5d29daa251",
+                "resourcePath": "datafiles_yy\\Assets\\Spritesheet\\spritesheet_other.xml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "20d3a77b-f396-475f-9980-1f88a5df0c31",
+            "Value": {
+                "id": "f0e99dad-2b79-4300-afe5-205fa955a5c9",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\ladderNarrow_top.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "213f388c-615f-4a5a-b7eb-92fc1481b90f",
             "Value": {
                 "id": "5c98f2f1-0c64-445a-8e39-b6f65b5c07b1",
@@ -55,11 +503,1003 @@
             }
         },
         {
+            "Key": "2152397b-f3ab-46be-b84e-a563cc745961",
+            "Value": {
+                "id": "e0a02deb-dcf5-42e5-8080-c7fd2a6f5044",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\buttonFloor.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2439fe98-ddf4-43e4-9f40-bf7412656f7e",
+            "Value": {
+                "id": "401af9af-2dde-4541-8e02-f079b5b15643",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\lockGreenRight.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2464775d-b5cc-4ed2-8436-8a9afa3bfb25",
+            "Value": {
+                "id": "9bf3d166-68e5-4bad-9601-cafac2585b1f",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_duck.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "24added0-ca4b-4482-8942-6ec50064b815",
+            "Value": {
+                "id": "35799896-bbae-4f1f-b877-82b57a237fdd",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_17.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "259b81b6-7898-4ffe-8f17-6e6561fa12c1",
+            "Value": {
+                "id": "b1388ddc-da21-4340-a23a-f733f892ad0a",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_up3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "261947c3-05d1-447e-98e4-9b87d7be07be",
+            "Value": {
+                "id": "920060f9-f5e9-4803-abe2-1b7f0ec5d8fd",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_duck.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "26a602ca-b570-4116-96ce-d74b95447686",
+            "Value": {
+                "id": "4a8d7c9b-b397-4ae6-bcea-e2b848b71a39",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_03.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "27511b06-f70d-4344-a9e0-b936108e3851",
+            "Value": {
+                "id": "9e4785c6-1107-4b21-a357-de7c26bb9d23",
+                "resourcePath": "views\\27511b06-f70d-4344-a9e0-b936108e3851.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "28656327-4d77-4f9e-818b-a58f15b48628",
+            "Value": {
+                "id": "be730fc6-0611-4d70-834c-f20810e76604",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_hit.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2a625e78-b894-4f18-9d47-c2a9a5197e30",
+            "Value": {
+                "id": "7d9d531e-cdd3-461e-88ba-36a951ca05f8",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemySpikey_1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2aee9020-0b40-4b81-ac42-a18a49751e04",
+            "Value": {
+                "id": "bae942c9-f398-459d-8386-812ef6d3ee1a",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantDark_4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2b5ab7b9-6b11-4b9b-b871-0431ae027119",
+            "Value": {
+                "id": "811840c0-4937-49cc-9e7c-6c5a156153a7",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\switchGreen_left.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2b8ca91f-6e10-4a7f-b6c0-3bf96d9f8536",
+            "Value": {
+                "id": "37c819a0-62a0-4d59-aafd-c396e9f9154c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\lockRedRight.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2e40556d-567e-487c-85fd-feed949a2926",
+            "Value": {
+                "id": "b50fa46d-3479-4062-917f-32c9fcc4cee3",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_07.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2e60a7ea-d504-4015-ac9d-f940201b54c4",
+            "Value": {
+                "id": "87225df5-8c0f-46d2-893b-ab28170a82a2",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_walk2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2f1e9aba-fa8c-4938-b190-380374e8a0e3",
+            "Value": {
+                "id": "e8cacac8-e288-4d90-89ce-c476f11be574",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_14.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2f375c01-4aea-4cc7-aaba-50d0481009b0",
+            "Value": {
+                "id": "27fa79fd-0630-4107-9b2c-e12869931761",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_dead.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2f6a7040-0ee7-48d7-ad99-bde099ff6e00",
+            "Value": {
+                "id": "2d29b3cc-4b27-46bf-af1f-c8d1b2f0ceca",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\fenceRight.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "301b6d24-cb73-4150-8fb6-2a14f32309de",
+            "Value": {
+                "id": "8c02dec4-c5cc-43de-92a3-f7b1137d188e",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\outlineJewel.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "305db763-a86b-4c3f-a93a-a0ab65bb713f",
+            "Value": {
+                "id": "aaf88797-d1fa-4685-9451-ba1c6cf84606",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyWalking_3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "30e1059e-bf21-4886-8bbd-e4586579562b",
+            "Value": {
+                "id": "7d72dd6e-4425-412d-9ed9-1d438f1c4623",
+                "resourcePath": "datafiles_yy\\Assets\\Vector\\vector_backgrounds.svg.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3155bc3f-98fa-4dd1-9495-f9449b2956dd",
+            "Value": {
+                "id": "b5d917af-61af-41c9-9ecf-7feb505dfc6b",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_15.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "318a6f0e-d47f-47c9-abac-d8db7905360f",
+            "Value": {
+                "id": "393b57ff-1bf4-4179-9565-d7ebd18800e5",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_17.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "329c0a07-c061-40e0-ab1b-0c9f88382e32",
+            "Value": {
+                "id": "9008b265-f902-49bf-9fd7-31b914378577",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\blockRed_puzzle.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "33df6115-fb8f-4eb1-9d9d-503e343b3b35",
+            "Value": {
+                "id": "81b199d1-48c6-427b-b33b-ca6128622c0d",
+                "resourcePath": "views\\33df6115-fb8f-4eb1-9d9d-503e343b3b35.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "346eb15c-4643-408f-9fb7-2ec5b756e2f2",
+            "Value": {
+                "id": "add2f927-1c66-402f-9db5-3e3fbf87de60",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_08.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "350e1b62-8368-4f07-aea7-6a873276a34d",
+            "Value": {
+                "id": "56fef060-3fc6-4c9c-a8dd-0a3916dd7a66",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\puzzleRed.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "35ee8550-f98d-4079-a69b-063a3f99c44e",
+            "Value": {
+                "id": "cc33ceb9-08f7-48d2-8e89-3ded66d0b11f",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantTop_blue.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3729a7f5-822c-4b30-bfc7-8e61df70867b",
+            "Value": {
+                "id": "b797e310-00bb-494f-8eea-e529c8fddba0",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantRed_5.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "381e7a80-950a-4fb8-b86b-fd3b0ecb696f",
+            "Value": {
+                "id": "969c7aa3-285e-48d2-94ff-04fa214c6a04",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\signArrow_left.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "383067a7-b82c-470e-acc8-75aeb9f92062",
+            "Value": {
+                "id": "5975b3a5-8214-4d22-85b0-6ad710bf87f0",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_hit.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3885ead0-f46b-401a-be0c-b6638961cae7",
+            "Value": {
+                "id": "64d9f905-91df-425e-b2c5-a6a3e82fb809",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_walk5.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "38e2030f-c608-4196-9f5a-3a763527e3e4",
+            "Value": {
+                "id": "b6e159a1-70cc-4b27-859e-667dcb39c997",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\signArrow_up.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "39577d45-0600-4373-8af9-d7ac2d935583",
+            "Value": {
+                "id": "ddc65611-fa6c-4db1-9bd4-e7daed57cad1",
+                "resourcePath": "sprites\\spr_PlayerIdle\\spr_PlayerIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3983d453-1407-4e70-be1e-bab6ea1e61bd",
+            "Value": {
+                "id": "88ab1d64-0d14-44e3-ae08-3fc39bb0b734",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyFlying_2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3a188c2d-46ab-4333-b6ed-583b9b714c14",
+            "Value": {
+                "id": "ad8e1718-8a39-4b2e-b221-d60fad38345c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_walk2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3a78f52f-d8be-41ee-8e9a-7fe5289df4e5",
+            "Value": {
+                "id": "f33cdefc-4ee1-4986-8ed8-c21320b486cf",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\lockGreen.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3a79647f-7e56-4b82-a667-9fa9d63e67f7",
+            "Value": {
+                "id": "9498b3e5-d9fb-4280-ab7f-d71d72075657",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\doorGreen_lock.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3bbbc21c-eaf2-4cb9-99f3-04e0f7efd384",
+            "Value": {
+                "id": "5cd53c2e-defb-4fd5-9985-a624625ddbfe",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantBlue_6.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3d0769d5-d77e-4a47-9993-ea317f07142b",
+            "Value": {
+                "id": "e333ecf0-b0c5-416b-af82-cdb03b1e86f1",
+                "resourcePath": "datafiles_yy\\Assets\\Tilesheet\\Thumbs.db.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3d7bdab3-0cef-4463-bb16-4c9eefb2e456",
+            "Value": {
+                "id": "fd9ddbc7-38cd-40e0-a34b-c214661e0127",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_13.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3f4dbdca-5498-4e99-b42a-fcba5bfb0b3f",
+            "Value": {
+                "id": "3407acc6-988b-4150-9964-9ce56d191bc4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\doorRed_lock.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3f6a0117-d622-4f4f-87ee-8d9e5697d3f8",
+            "Value": {
+                "id": "de32506f-2e4a-4df8-b42b-a922f0fcc07e",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\Thumbs.db.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3f7861f3-570d-4735-94f3-4ff6edb86177",
+            "Value": {
+                "id": "288c219a-9145-4ca9-8569-7e508e536c1e",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_up1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "402d87bb-1506-4471-b977-2506ce457f22",
+            "Value": {
+                "id": "61b2140c-0793-4aa8-93d6-bdde07adf1ce",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\fenceBroken.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "406f9571-e503-493f-9e4a-d7a5ed11bf00",
+            "Value": {
+                "id": "3e5a25e8-fecb-4916-a57e-00a3b47928f6",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_swim2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "419c85fc-809a-40b9-ac21-a2274c399742",
+            "Value": {
+                "id": "3420a495-24e9-4135-858c-00b956a55eac",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\greenCrystal.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "42458048-5f59-48fe-a543-30e011b47595",
+            "Value": {
+                "id": "ea2cf1e3-19ae-4f89-ab7f-82ab545e6919",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantStem_horizontal.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4418039e-6b16-4468-b62d-a47e7f4f6b42",
+            "Value": {
+                "id": "0d5a09ee-3c60-4a7f-a373-1aeb1e1d5e96",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantRed_1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "44d47b4c-f201-49b6-872d-d7970e37d058",
+            "Value": {
+                "id": "8ae61bf5-403e-4b20-8f7e-0e22e1c22823",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_up3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "44e78487-86fe-4787-8d49-bdd879340907",
+            "Value": {
+                "id": "4c4de301-cb61-4859-89c2-5e25e3b47436",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_23.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "45f74abb-ef42-4ea8-8f0d-bb298726bb20",
+            "Value": {
+                "id": "7e0f2f86-e4b6-4c9f-972b-b36d9d7d05ed",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\fluidRed_top.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "466ec550-5e2c-4572-bb85-1107ca3e11bd",
+            "Value": {
+                "id": "314852a5-b537-49a5-be1d-98801d2b8ebc",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_19.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "475f15d8-4d3c-4012-86c1-05acc74f7691",
+            "Value": {
+                "id": "1793e6e3-4ae8-4fbe-94a2-0e4054421007",
+                "resourcePath": "views\\475f15d8-4d3c-4012-86c1-05acc74f7691.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "47d1e26e-83b8-48d1-bb7b-dd8ec6fd0293",
+            "Value": {
+                "id": "01ffaae7-4730-4865-9449-df406e49c9b2",
+                "resourcePath": "datafiles_yy\\Assets\\Tilesheet\\tilesheet_complete.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "47ebfdfa-caa6-43ed-acaf-d1082acd76ff",
+            "Value": {
+                "id": "f2d97159-2728-4a09-8750-b942f850b47e",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_08.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "48c3a037-31bb-44a1-800e-9fe4e14addc4",
+            "Value": {
+                "id": "c1a8e213-5c11-49e4-85b0-c0de522a0101",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_15.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "48e6e4ef-fc79-439c-a745-77d0fc60eb01",
+            "Value": {
+                "id": "8a098496-19ec-488e-a7d0-022630856b3d",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_05.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "498bd3dc-3029-4be5-8f42-1953ec9d83fd",
+            "Value": {
+                "id": "c93c2fae-ef0d-48d9-ab8e-dad0a8dfa893",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_16.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "498e4cf9-aac7-41d2-88cb-922a4cce92c8",
+            "Value": {
+                "id": "6feb236b-2f3e-45b3-97b1-b2f28e2f3fd3",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_11.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4a194b6e-10ae-48e6-9ce6-192c18a87db4",
+            "Value": {
+                "id": "68519183-9b28-46d4-bc87-e863b776d888",
+                "resourcePath": "datafiles_yy\\Assets\\Spritesheet\\spritesheet_complete.xml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4ac40524-c9ec-411c-b7c5-d5c7e77f579c",
+            "Value": {
+                "id": "f7f7a9f2-0f5b-4701-973c-86425a1e00c5",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantStem_cornerLeft.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4b5f1877-1d76-48cc-9ec7-7f6b9d67a10f",
+            "Value": {
+                "id": "8c8dc017-9f2d-4396-b6b4-fe1fcd1d69d9",
+                "resourcePath": "views\\4b5f1877-1d76-48cc-9ec7-7f6b9d67a10f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4bb4a5b7-b625-44f6-9da6-9cd2638f6df6",
+            "Value": {
+                "id": "9412c6ff-fd11-4b77-bb61-58d8cc54ec13",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_walk1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4c427778-49b7-413a-a991-9b21bfd27769",
+            "Value": {
+                "id": "f4e8f255-ae83-4910-b52c-768be3d67c27",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_23.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4c9fcb18-f119-44e8-8dd4-64d30a291347",
+            "Value": {
+                "id": "4d1dca77-7b3f-469a-98b5-6664cad7ca98",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\fluidGreen_top.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "4d3817ef-99bb-4dc0-a45d-152e6e6853ec",
             "Value": {
                 "id": "d9f9e452-c291-4b6b-9205-a17034f5a897",
                 "resourcePath": "views\\4d3817ef-99bb-4dc0-a45d-152e6e6853ec.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4dae5bb6-4f85-496d-ac8e-76ab07f05867",
+            "Value": {
+                "id": "d82db36a-fdaf-457b-bb80-d16f693534a0",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\switchRed_mid.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4e01075c-777c-483c-b3d8-1c1a55105da5",
+            "Value": {
+                "id": "5336843d-96be-4767-96af-7fe2462e15f6",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_walk1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4e82b7a7-41b1-4899-8e8b-736de62cd7ec",
+            "Value": {
+                "id": "5844f93d-d9a6-4d37-bc90-6d45e872ee0c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_06.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4ed25b98-d6d1-4cda-a4c8-e61f61796642",
+            "Value": {
+                "id": "9a47ce94-8978-46fd-8c90-9a15c3f2fb6a",
+                "resourcePath": "views\\4ed25b98-d6d1-4cda-a4c8-e61f61796642.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4f23ccca-d5d0-4489-ad3d-9b99f6161b04",
+            "Value": {
+                "id": "e81c821b-056d-4162-9d19-13a79af2860f",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\puzzleGreen.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4f4c94b2-1de9-4baa-a6a4-e6f0af9b201d",
+            "Value": {
+                "id": "bd6be4aa-95ec-41a2-90db-6dfec702491d",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\discGreen.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4f8d5e61-6de7-4e02-a82e-2b93f412a40c",
+            "Value": {
+                "id": "dbfe0f4a-8152-45fe-bbc0-604938f5c842",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\Thumbs.db.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4fce7510-a4be-4d83-87f7-ffa61d6c1c5e",
+            "Value": {
+                "id": "5044ac7d-1ff8-414d-9d25-aec7c9df6f79",
+                "resourcePath": "datafiles_yy\\Assets\\abstract-platformer-370-assets.zip.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "500f2305-5dd0-4ba3-903b-7462ad22c058",
+            "Value": {
+                "id": "d568851b-83bc-479d-8cf1-e8a958026697",
+                "resourcePath": "objects\\obj_SlopeUp\\obj_SlopeUp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5022c3b0-9824-485e-852a-92b380008f5c",
+            "Value": {
+                "id": "db63378c-ef8a-45cc-9134-578a6c9e835c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_18.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "515c4d3c-7b3f-479c-ad61-9c185d2b6a9f",
+            "Value": {
+                "id": "edc61f94-0831-492f-a9b8-96b7e7b7c621",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\blockRed_key.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "51d61ff6-a09b-4b70-ad5c-7d737220a371",
+            "Value": {
+                "id": "d99734eb-0f16-4744-bdf2-0b8d594ef4d4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_switch2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "52d11f5a-5aac-4f8b-8241-97d4712dc17b",
+            "Value": {
+                "id": "73721a9b-5d8a-4fe8-bfbb-602e09e7f6ba",
+                "resourcePath": "sprites\\spr_Tiles\\spr_Tiles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "52ff897e-ebce-4bed-ba28-c04ff189a31a",
+            "Value": {
+                "id": "57dea965-2da2-43e0-a2a9-4911065dcfba",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Backgrounds\\set3_hills.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "54c66130-b575-4e2a-a304-22bea9ffd454",
+            "Value": {
+                "id": "a732fd45-ca5e-4ef7-954c-f5a59a845afd",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\Thumbs.db.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "554440ab-44c1-43e3-95be-48309e26d8e1",
+            "Value": {
+                "id": "5575a2a4-7e63-4be6-974c-0e14953a6785",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_14.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "55833769-b28b-49f8-80c4-e19032f9204d",
+            "Value": {
+                "id": "56fd0a28-4804-450d-853d-55a315c413fd",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_switch1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "568a4db2-8cd2-4eb7-ba26-7f9ef3c58f4c",
+            "Value": {
+                "id": "2357f9d6-6ce0-448f-b785-55f4fda7a863",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\doorOpen.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "56a81e54-0185-4a97-9971-5c212f9ae472",
+            "Value": {
+                "id": "b1f53c9a-f3dc-45a0-b87f-97078e726e99",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_walk4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "56a972ed-6ff7-4bb3-91f4-502be1235604",
+            "Value": {
+                "id": "7be579f4-7f06-4154-a451-1111f15e9594",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_10.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "573c39b3-e1dd-4e2a-a467-a779d585c8dd",
+            "Value": {
+                "id": "7b967fbd-4800-41b6-bd1b-1c1903113864",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyFlying_1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5a916873-a9f8-43fd-b64c-1ba935126b50",
+            "Value": {
+                "id": "652b0aa4-1f29-4de5-8e86-62a6563e6c36",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_dead.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5b480b94-91c6-49c8-b3a3-668505a15117",
+            "Value": {
+                "id": "349763d7-8c0c-443a-8897-46e3bf61879e",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Backgrounds\\Thumbs.db.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5b8180a4-6b30-44e0-a40c-537c414e6988",
+            "Value": {
+                "id": "6739a27f-6871-4820-9111-5b5e0cdf3c5e",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\lockRedBottom.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5bef1bf8-b039-4898-b0ad-f4a1cccc5730",
+            "Value": {
+                "id": "df1665b9-623b-495a-b861-9505b0b3aaea",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\lockGreenMid.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5e3ab61d-3d9d-4173-842b-26f45cbce6f5",
+            "Value": {
+                "id": "3d06475a-ddeb-43e7-a105-bd2e72549efe",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_09.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5e4aef7e-b2a1-4377-a55c-a6694201686c",
+            "Value": {
+                "id": "3cf83a80-241b-414a-9b7a-cdf44d00bcb6",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_20.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5effaa9a-85b6-4103-a530-3946a01f0d9f",
+            "Value": {
+                "id": "f45ab2e4-ca48-4370-a3de-47502ee13ec5",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_03.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5f1c3417-6d1f-4925-aabe-4cfb236be4df",
+            "Value": {
+                "id": "0ae03313-825d-4baa-9fba-356613c16fa0",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyFloating_1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5f9faad2-8cbc-482d-ad1b-f46c6be8176d",
+            "Value": {
+                "id": "4696c45e-e2dd-4558-8822-3a0b10ab93dd",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_25.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5fcec19c-2220-4c03-8482-299757973b04",
+            "Value": {
+                "id": "5fe0c3db-c7d9-4758-b49d-1da0b34d164c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantLeaves_1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6144399a-7099-41c9-aa76-18f34bde65e9",
+            "Value": {
+                "id": "b481b86a-ceda-43cf-83cb-dc0eb7e03569",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantBottom_2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "61772d81-c9e3-4461-a88f-bf26ba4acf16",
+            "Value": {
+                "id": "600a4e95-3073-4e6a-9d57-69940b207c1b",
+                "resourcePath": "datafiles_yy\\Assets\\Spritesheet\\spritesheet_complete.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "61da2e3d-c5cf-492c-ad4b-5af2ee6d8e1b",
+            "Value": {
+                "id": "d08e45d5-fa6f-440f-8f09-77f2f4b420a9",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_switch1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "624f7c13-21f2-4187-ad47-6f705abe84ca",
+            "Value": {
+                "id": "230d423a-f268-46e3-a8e1-d38ec699d765",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\doorGreen.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "636f5bc4-b3e2-4b9a-b4d2-fec1143df648",
+            "Value": {
+                "id": "a706fcf1-2302-4fef-a126-b4b3eca0b594",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_13.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "63c9259c-91cb-439b-8ae4-c6855c51a8e6",
+            "Value": {
+                "id": "f78171b5-101d-49d9-8ba8-257ee2258857",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_walk4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "64da4d53-4727-4c24-b499-ca68e1c15f22",
+            "Value": {
+                "id": "8548dbdd-79de-4fe1-8787-c0b13eb97e27",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_09.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "654736a4-f2a3-48ab-b90c-14aeb7848add",
+            "Value": {
+                "id": "0bb108e2-4fab-49ef-bfa8-03dab16cf8d2",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Backgrounds\\set1_hills.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "66251270-2ae5-497b-b0bf-e89306e7e331",
+            "Value": {
+                "id": "434e8376-5e6e-424c-b906-65c4c848e2ea",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\doorRed_top.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "66730b0d-f885-4944-a942-c5529554217f",
+            "Value": {
+                "id": "17c63e05-2e30-427e-b61e-78faf42a25d5",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_01.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "66780b4d-ea60-4862-ada4-1632bc01d6d5",
+            "Value": {
+                "id": "4909aee8-bb60-467b-ae86-82dea481cb9b",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\doorOpen_top.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "66ce93b1-db16-4e01-b25c-299b3c423954",
+            "Value": {
+                "id": "604d6ca5-730e-4069-ab21-96c86023f1aa",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\Thumbs.db.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "66d20f0a-c575-47ad-a032-eec277300d16",
+            "Value": {
+                "id": "c6a06eaa-1593-4ec4-8177-fdecdc91ff00",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_up3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "66f095c2-73c2-4cd7-8421-fa692984859d",
+            "Value": {
+                "id": "3c0e0759-4f52-4650-98a5-00374dab29c0",
+                "resourcePath": "views\\66f095c2-73c2-4cd7-8421-fa692984859d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "673261ef-c2ef-48aa-ab83-f7f2d84f3866",
+            "Value": {
+                "id": "a7c215d9-4d84-477c-8241-7d89dd8c384e",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\ladderNarrow_mid.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "673ba519-5c4a-4ae0-9b60-dfa1bd36695a",
+            "Value": {
+                "id": "d0e2cbd6-e2db-4392-8a60-030e7dda06ca",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\doorGreen_top.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "689b2d76-f510-494a-bfbe-5ecd56865f5e",
+            "Value": {
+                "id": "1f213e1b-c605-4bb5-95f9-e9bb3285188a",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\signArrow.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6903fed6-6734-49ac-b7b4-d76112d24915",
+            "Value": {
+                "id": "336ad275-daa5-49b2-aa3e-d14e199d61bf",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_hit.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6950a747-e819-4312-9244-0e7dbd83d55b",
+            "Value": {
+                "id": "82909dee-9ad5-4afd-8c98-d9780d49d040",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_02.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6953cbde-b2b7-4405-a059-a8b9b9a3aab4",
+            "Value": {
+                "id": "1d94731a-063b-401c-bf80-2a462f8ae0a3",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_up2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "69d870fb-c31a-40eb-9651-929688e5142f",
+            "Value": {
+                "id": "5098fd4a-93de-446a-975f-800aad436b53",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\blueGem.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6a3a76e7-9897-4e9e-9721-cba927c941be",
+            "Value": {
+                "id": "20b9ba95-7935-4973-8d16-91a6816fd9cd",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_21.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6a8dd01b-4073-42d1-b9c1-fa25e7de9745",
+            "Value": {
+                "id": "cd362f27-808c-4791-9831-71c17213e36f",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\switchRed_right.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6b104524-0352-4312-988a-80d6e99919be",
+            "Value": {
+                "id": "6b46f1f8-58c6-4e11-9373-5c9492fa0476",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_roll.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6bb29f03-9348-4891-8983-c8957abe4f53",
+            "Value": {
+                "id": "cf90bfb2-3a04-46b0-8a79-de0d59c3ff28",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantRed_3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6bc09697-8167-4c0c-adb5-97464e52169e",
+            "Value": {
+                "id": "d3e05877-6b1f-49ed-89b5-7ec19ab9b9a4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\keyGreen.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6c07c97b-012a-4c02-b95c-9ec103261536",
+            "Value": {
+                "id": "82b86674-2446-43d7-9726-d6ae4e6c600f",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\switchGreen_on.png.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -79,11 +1519,35 @@
             }
         },
         {
+            "Key": "6c7531e5-0e5e-4ec8-a90d-7e778d695e8d",
+            "Value": {
+                "id": "991f4796-ed17-4d6e-aa64-e1d97ab4b5cb",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_27.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6c94ac5c-0aa7-4348-b2c5-39fcb0c3fd2c",
+            "Value": {
+                "id": "c9762fab-ff3a-46b9-a550-fc2ce9e487c9",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_duck.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "6cba956e-9d31-470f-94e5-00cd3068d268",
             "Value": {
                 "id": "d228e76c-2dce-42c3-b7a5-c2cd238dad4b",
                 "resourcePath": "views\\6cba956e-9d31-470f-94e5-00cd3068d268.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6cc430a7-7f73-494e-b281-c92981ac513e",
+            "Value": {
+                "id": "36636b5e-c380-4fe3-ad01-30a13a282d49",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\lockRedTop.png.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -95,11 +1559,659 @@
             }
         },
         {
+            "Key": "6d567fa0-4366-45d3-863e-f3557d20362d",
+            "Value": {
+                "id": "11e70743-e84b-48a6-a08e-8337230dc49e",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_04.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6d5bc3ef-697f-4ad0-bcb6-5f5e42a3f3a9",
+            "Value": {
+                "id": "44b1d02b-29fc-4f98-9e49-bbc19f3a5f36",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\blockGreen_lock.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6e0a16f7-103d-41e4-bc3c-0bcea71560a3",
+            "Value": {
+                "id": "89128d79-cce0-4eed-9172-e3deca51f8f2",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyWalking_1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6e7c99d4-3b87-433d-8d14-59e9703b8380",
+            "Value": {
+                "id": "2446e196-3215-4ef4-b884-f995d22e5be2",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemySwimming_1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6f19fa88-24bf-4ea2-a6a5-e2ea56094f5b",
+            "Value": {
+                "id": "52b0b265-69b4-4051-854b-9fa6ef59db5c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\yellowGem.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "72a3be7d-279a-4be4-9f68-6f4655d2296c",
+            "Value": {
+                "id": "48152f3b-5b92-4b58-94d3-24c935b89920",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantTop_red.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "72a46655-f77e-4155-9d63-1ed67fe6180e",
+            "Value": {
+                "id": "aa7d9d99-d3d6-491a-bf24-a9450a24bbb5",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\lockGreenLeft.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7441e563-8e8a-4449-b3e4-e98918558348",
+            "Value": {
+                "id": "3534ffc4-a3e2-4782-9f47-8bb8ba492fa1",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\lockRedMid.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "745994d7-bda8-40a4-8080-f7b8d5ed84a9",
+            "Value": {
+                "id": "19ee8a90-95af-4c2a-9148-1d35aa93dfd5",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_21.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "74dd6996-6d47-42a0-85b7-fb332460820c",
+            "Value": {
+                "id": "b2a1ffaf-4a46-45d0-a788-e5eb897b1733",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_20.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "75301e17-80ea-4abf-96a5-621c186ac680",
+            "Value": {
+                "id": "d87bdb84-39ac-4fc0-8aed-8a2da350a142",
+                "resourcePath": "sprites\\spr_SlopeDown\\spr_SlopeDown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7593202a-203a-4104-bfd4-a058518efbba",
+            "Value": {
+                "id": "fbbd9294-561e-401a-b749-feb6a7ef0a56",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Backgrounds\\set1_background.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "75e064f6-2ebb-46a6-a303-2f6263f4b6aa",
+            "Value": {
+                "id": "a93427d3-b447-43e6-b127-e87333a10c04",
+                "resourcePath": "datafiles_yy\\Assets\\Spritesheet\\spritesheet_other.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "77683686-f30c-408b-83e9-6123178af69e",
+            "Value": {
+                "id": "4b44e056-a2ca-44bc-b4ad-d508656b47f9",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_walk5.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7799e61c-73cf-479f-a392-02fb510dad13",
+            "Value": {
+                "id": "9cb89eab-ebc4-415f-bfdf-ead8e2a6f296",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\signArrow_BR.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "77d1b01f-1740-4d8b-9059-da35d0a52365",
+            "Value": {
+                "id": "ee9f9580-7fac-4992-a144-c2ee0b1a1088",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantThorns_horizontal.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "77ea616c-5f53-4af7-b260-765d90a14d90",
+            "Value": {
+                "id": "461b91b1-d3d1-412c-8d27-8acbedb2cfc8",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_12.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "796b2917-628a-4f87-b1da-2439efe1acf3",
+            "Value": {
+                "id": "ec34a762-08c3-4020-bdbc-ca1d75726a68",
+                "resourcePath": "views\\796b2917-628a-4f87-b1da-2439efe1acf3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "79945db9-06f3-48c9-bc94-035c551b2cfa",
+            "Value": {
+                "id": "c6e3844f-75b4-4a22-89a4-1faca649b7eb",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantDark_5.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7a24a3b6-0a23-4771-9063-c668f5c62c93",
+            "Value": {
+                "id": "1d45e4d6-eaf1-471e-a0fe-ec49bbcdc6a2",
+                "resourcePath": "sprites\\spr_SlopeUp\\spr_SlopeUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7a7aac10-0a45-412b-a289-d80d0a0e8cfb",
+            "Value": {
+                "id": "a944f364-9125-48e3-bbdd-e839b57e9ae8",
+                "resourcePath": "datafiles_yy\\Assets\\Spritesheet\\spritesheet_enemies.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7b998603-aeed-4a83-86d9-20bf5f16d468",
+            "Value": {
+                "id": "a406c354-df29-489b-8a6b-f057abe8ed4f",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemySwimming_2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7b9cde4e-f2c1-46ad-a008-ad73ed843684",
+            "Value": {
+                "id": "e6c2d274-b150-4f91-8b35-7572055528b3",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_02.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7bb84b75-5232-49c0-aabd-3ef7556c6176",
+            "Value": {
+                "id": "22a83c9c-00d2-46ee-96c1-ceed47d195c0",
+                "resourcePath": "views\\7bb84b75-5232-49c0-aabd-3ef7556c6176.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7ce83f75-3aa1-4937-a174-affeb875d36d",
+            "Value": {
+                "id": "36bb8e1c-423f-45d2-9c0c-b188b62620f6",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\spikesLow.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7d138155-50c9-4f45-af29-002a5f3e1b3f",
+            "Value": {
+                "id": "8769f734-9902-4dad-8826-3b96d8df75e5",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_26.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7d90bc35-02a2-4e66-87c4-4da5313361c9",
+            "Value": {
+                "id": "5c5a59f1-9d14-4ed8-a0aa-fe609a3d61ce",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantRed_6.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7ec62e7c-d63b-455d-ad20-1dd16b1b70e3",
+            "Value": {
+                "id": "c3da3c2e-25db-4b23-96d3-15b30f6554fb",
+                "resourcePath": "datafiles_yy\\Assets\\Spritesheet\\spritesheet_tiles.xml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7ffbe604-483f-4f48-a9eb-515933d2f565",
+            "Value": {
+                "id": "0654f970-0fca-4554-b96e-396ae12f263d",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\buttonGreen_pressed.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8018e99c-4374-4439-b7ab-1547814948b0",
+            "Value": {
+                "id": "c32c3855-47ce-4c5d-941c-172489c92c8e",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_fall.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "80c75a1e-4a7f-4b57-8497-8b022fb8331e",
+            "Value": {
+                "id": "c898d3e5-bdf9-46fc-8fc3-9940927bde4a",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_14.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "80dc8800-591c-4433-9f2e-422db4eabcde",
+            "Value": {
+                "id": "0e8ae172-aca3-4dfb-88ff-094cdc7357a7",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantGreen_6.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "80eb941f-2969-47f4-8a63-3d53c5a532bc",
+            "Value": {
+                "id": "5d25074f-689b-45bc-aea2-7a4a3845c5dc",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\blockRed_lock.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8210d08b-17b3-4cfb-9b6a-986bacc6add6",
+            "Value": {
+                "id": "04867a66-0eaf-4261-aca4-7a6d4c2d8cf8",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyWalking_4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "827f8a2d-cd1a-4b77-8a72-81f184ce09ee",
+            "Value": {
+                "id": "29540535-fd32-4571-bec1-8f95a26b95fb",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\fluidBrown_top.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "82b13fbd-fb5d-44ca-954a-5578b72a67de",
+            "Value": {
+                "id": "915daa36-002c-4f4a-9a7b-46ffd5f351c5",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_15.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "82f7664f-8f26-4628-a727-c91a36e94bb5",
             "Value": {
                 "id": "83f54dd4-6f51-4ea6-b455-da2b3ca41ecc",
                 "resourcePath": "views\\82f7664f-8f26-4628-a727-c91a36e94bb5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "831053bd-9b38-44d2-b071-172a3a76c2f7",
+            "Value": {
+                "id": "511ac519-38f8-4be9-bf30-41b9d2037402",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_walk3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "838a79d9-23d5-4740-b48c-85bf67709db4",
+            "Value": {
+                "id": "cbb2c91f-150d-4185-a0eb-a364caa8f578",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyFlyingAlt_2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "85e2ea6a-44f5-48a8-bdbe-c31dc04165c9",
+            "Value": {
+                "id": "ac90cc33-7e62-4560-83c6-82a85cc7aae4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Backgrounds\\set2_background.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8634899a-3607-4d6a-930f-475ed7674d5b",
+            "Value": {
+                "id": "82bca462-3f61-4cde-b654-b957c7dd211d",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\outlineKey.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8680e587-d4d4-40f5-9404-7b09b5f95b67",
+            "Value": {
+                "id": "9454c990-a825-4497-bdcb-e9e548581dbe",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_walk5.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "86f068d4-d212-4d6f-929a-27f9aa129059",
+            "Value": {
+                "id": "3d9d6a5e-2601-4383-a497-2c5ebefede24",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_24.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "87738848-b523-4df3-8168-bab8d539b96c",
+            "Value": {
+                "id": "7e96bd23-031c-4703-ae57-6e6a8060f695",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Backgrounds\\set4_tiles.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "88087592-b97b-4804-97b8-8e0ee131985e",
+            "Value": {
+                "id": "36ac82ee-c319-4c0a-a5e7-dc41a08a31a9",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\switchRed_off.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "889ef4b0-35b9-4f45-be0e-8e766b820947",
+            "Value": {
+                "id": "e95330df-461b-4ad8-91fa-14927357757c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\vine.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "894be7b5-e625-4ff5-87dc-b079139c78c1",
+            "Value": {
+                "id": "280af28f-c729-42eb-99c2-aab5ca6c15da",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_26.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8a474b3e-acad-4ebe-8acb-a0c225b783a5",
+            "Value": {
+                "id": "f24f1ebd-98a4-4500-9afe-3109ebb9e920",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\blockGreen.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8ad0ddba-6f7d-4b37-82eb-efde6f03dba5",
+            "Value": {
+                "id": "70d84722-2962-4c02-88a2-643e90322de0",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyFlyingAlt_4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8b63f4ce-a35b-4eb2-b2e6-648aebfc235f",
+            "Value": {
+                "id": "3ee57928-9444-465c-a27c-29bac71ab2b5",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Backgrounds\\set2_tiles.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8c47f6f5-f2c1-451e-b5b1-23edf424b50e",
+            "Value": {
+                "id": "0e207246-00dc-41d5-b3d5-1961b0b8f3ab",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\lockGreenTop.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8c757375-d78e-4316-be45-dedeab52b0b9",
+            "Value": {
+                "id": "4330bbbf-f9e1-4f1a-8533-ad701e39cf27",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\lockGreenLock.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8d1c019d-999c-47fc-8892-24e69922b206",
+            "Value": {
+                "id": "f0869091-dd1b-4064-8d86-0f61b21c55d1",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\switchRed_left.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8d8e7b5d-b4b8-4945-9c8d-207898122906",
+            "Value": {
+                "id": "048b8a45-ef41-4731-bdac-75dd64f6b048",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\signArrow_down.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8e20da04-044c-41bb-bec1-5222669b2ea5",
+            "Value": {
+                "id": "2f414818-4610-4bbd-81bd-369629e60791",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_walk4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8eae9a7a-2046-419e-8fe7-3991f45e6613",
+            "Value": {
+                "id": "33aed233-5f40-4bfe-ae16-bdb11ba6ec8e",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\discRed.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8f962325-926c-4a6b-8067-de20dc3a2726",
+            "Value": {
+                "id": "ee10e502-8dab-4c11-b433-0cba4d288de0",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantTop_yellow.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8fb79988-c84a-42b4-9465-1798da7a879c",
+            "Value": {
+                "id": "069336d8-a56d-48e9-bcde-05bff866d3bc",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\signpost.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8fe00e4a-129d-423d-a0a3-70acf93ccb24",
+            "Value": {
+                "id": "e800c4b9-8f77-458e-ab73-f1732ac4b93c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_06.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8ffd006c-0217-4864-94af-b26892aae1ec",
+            "Value": {
+                "id": "7d6beea0-60ad-4b87-b562-fe523821a3c3",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_fall.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9025c6fc-4c35-4450-b1d6-4054d4ad8ec9",
+            "Value": {
+                "id": "6d4de459-7d9a-4b28-ba6a-4381f25a6d00",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_05.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "90fd2b2a-322b-4346-97b0-009ca0a91114",
+            "Value": {
+                "id": "22288a1e-7aa6-4c67-80de-07091f59c035",
+                "resourcePath": "views\\90fd2b2a-322b-4346-97b0-009ca0a91114.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9129c6e8-7361-400e-add3-92a193086a80",
+            "Value": {
+                "id": "4f0e1ac3-8bf4-45d5-9210-c19c5af7b446",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\outlinePuzzle.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "914ac67e-19e1-4e11-b4ed-f8c4e037530f",
+            "Value": {
+                "id": "ae28b645-55bf-4fd3-a15d-483ba91ddd58",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_13.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9165c2ce-8c9b-46c3-b01b-cb29f14303c3",
+            "Value": {
+                "id": "40fe22aa-259a-429f-a315-376a818cc863",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_21.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "918351c1-68e2-4295-bef3-4d7cc98e612d",
+            "Value": {
+                "id": "b0ec84b2-1ace-46b7-8583-91c73ce9a7a1",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\blueCrystal.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9361f6f1-c737-4d21-bf97-15870676103f",
+            "Value": {
+                "id": "773d9163-a512-474f-8574-a611c225ff7b",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\fenceOpen.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9377f4fe-a0c4-436f-9d8f-07bdc469ea77",
+            "Value": {
+                "id": "21b7989c-1dba-43a9-b317-2ea2364d3ccc",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Backgrounds\\set2_hills.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "93e0e270-4d37-46d8-997f-4ab799529555",
+            "Value": {
+                "id": "cafacada-0735-457a-ae7b-ec8fc33364b9",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\flagRed_up.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "94669fcd-c4df-4d3d-b6bd-260ae7ae47ae",
+            "Value": {
+                "id": "f8745869-39d3-4043-9b6d-8fdaf3d99c84",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_09.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9468bf4f-6c99-4306-9ff3-b2718d930cde",
+            "Value": {
+                "id": "65472552-9884-445b-81cf-1a98661f819b",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_25.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "959806d6-8057-4871-b9e2-d36fdadbed97",
+            "Value": {
+                "id": "e990a778-b91d-4446-a186-f73562bc6ba6",
+                "resourcePath": "datafiles_yy\\Assets\\Tilesheet\\tilesheet_complete_2X.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "95ae5255-1067-443f-80db-6e252e839334",
+            "Value": {
+                "id": "bae04b40-1475-4c62-8160-bb7e2bb4001c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyFlying_4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "96a237dc-86a7-4e0e-bcdc-f9d473445095",
+            "Value": {
+                "id": "a2c2e41d-9b9b-4b51-8659-1ca98db414f5",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\outlineDisc_alt.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "978ed22d-bc7f-4c94-9373-706d08e1d644",
+            "Value": {
+                "id": "cb8b55b3-5f7a-4571-843f-0ba646ce5861",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_swim2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9793b498-f2ae-4fd6-91bb-aa07727ffe2f",
+            "Value": {
+                "id": "8edc5a7c-a9b2-4036-aaca-594e83a69acb",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_04.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "98851da3-85f4-4d73-9a83-e8aa3b75eeec",
+            "Value": {
+                "id": "7dd1d240-e2d7-46ee-bb1f-ab7b242b023b",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\blockBrown_broken.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "989e1ab6-2725-4f2a-82b8-bc39792ba371",
+            "Value": {
+                "id": "efb253a0-d6b9-49c5-8554-4bc539d3c94d",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantRed_2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "99d86557-7a4d-4e3f-bb60-d2c0c50e3f1f",
+            "Value": {
+                "id": "127b6348-f6d5-45b0-a7b4-eeeab993482a",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_swim2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9aeb687c-e689-41fd-89b5-4522f93470e0",
+            "Value": {
+                "id": "f770e3fa-1c5f-465b-be9a-af221acacc2c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_20.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9b59a781-8251-4687-8f0a-bfe869592dd4",
+            "Value": {
+                "id": "357f80e8-7947-4733-bdf5-6492544d2f67",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyFlyingAlt_1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9bb44879-bc97-4cce-ad3f-03e012d0b36b",
+            "Value": {
+                "id": "e54598c6-a6bd-41b0-afa1-a7937b8ee1cf",
+                "resourcePath": "objects\\obj_Player\\obj_Player.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -111,11 +2223,243 @@
             }
         },
         {
+            "Key": "9c1e44bd-99d0-4b48-bdef-8d89215d9bd8",
+            "Value": {
+                "id": "b555c595-9ffa-4106-8590-7bcc5c0e4483",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_08.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9c38e00f-f4cc-47d3-b789-90696d94b8fd",
+            "Value": {
+                "id": "81f6a76f-e9c8-407f-908b-a60e12066d63",
+                "resourcePath": "views\\9c38e00f-f4cc-47d3-b789-90696d94b8fd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9c4d5b09-9e74-4589-90f8-93d9098880a3",
+            "Value": {
+                "id": "e1de2c09-71b4-4d4e-bb3e-23fe2f1c5d90",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_11.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9c555355-cde1-4df5-9480-5c14d3565f72",
+            "Value": {
+                "id": "2291ce66-26d2-4891-b6d3-d603e4647449",
+                "resourcePath": "datafiles_yy\\Assets\\Preview.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9d2c7d4e-d767-4079-9ed5-4e3d3e0fe773",
+            "Value": {
+                "id": "bc2206e5-b435-4d95-9be8-0f39ec027dd2",
+                "resourcePath": "views\\9d2c7d4e-d767-4079-9ed5-4e3d3e0fe773.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9f15cb45-0483-4120-9c55-733411778025",
+            "Value": {
+                "id": "994a0c74-9576-4602-8181-07d796df9c29",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_09.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9f27a059-8b6c-4139-8209-68cd8abe5a47",
+            "Value": {
+                "id": "0d4b40c4-9374-4423-8b25-ffb9457defc4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_19.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9f59b56e-1e1f-4b1c-9be4-b7f067a0986c",
+            "Value": {
+                "id": "bc8992dc-af76-4080-9da9-4ede01f60bf2",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_swim1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a0a4fe64-9490-4454-abf4-382e17637bc5",
+            "Value": {
+                "id": "911f74f4-373e-4d7c-9e45-32a545dfa256",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\switchGreen_off.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a0b8ae08-41de-4c17-ba84-86c9be6db98e",
+            "Value": {
+                "id": "4e7f9c3a-3756-4459-a93e-a3abfb7391dd",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantStem_Tleft.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a19f90a5-6acd-41b8-aefa-2e27370140d0",
+            "Value": {
+                "id": "54050b78-3a6f-4b0e-aa1e-6113924af387",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_06.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a21c7c2a-7983-4e60-8a1f-065d4234c8fa",
+            "Value": {
+                "id": "57f1898b-fc74-4cf1-919f-2611a06ff540",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_20.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a2c19f8e-6569-4e39-8583-977ab2b7e8b1",
+            "Value": {
+                "id": "d7c698c0-f91a-48b7-81b5-b927145bb9c3",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\switchGreen_right.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a33bbf89-62e4-460b-9172-565b638b424a",
+            "Value": {
+                "id": "e433fe74-dfc3-4a45-9071-e4bd7d809297",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemySpikey_3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a357894e-b54f-40c9-89b4-2bf4b88750b8",
+            "Value": {
+                "id": "b8208786-43e9-49ac-bf94-4849b9246e54",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_21.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a453cbe9-10c0-4ce1-aaea-1e40b58d77d7",
+            "Value": {
+                "id": "7d2f89df-4598-4d76-85db-47f6a315f3db",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_swim1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a4a23485-6b08-4f50-a94a-88e358979ac3",
+            "Value": {
+                "id": "0ffcf085-9bec-4016-8f90-42bb896096b7",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_switch1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a50cfd13-3427-4b0c-a9e8-d5e8fc68e1ed",
+            "Value": {
+                "id": "0113153d-983c-4765-9a02-ea882c05cbf0",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\blueJewel.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a54612f5-d4d6-4b85-9c03-d1c55227d2ae",
+            "Value": {
+                "id": "9b81861e-6d95-4186-ae98-8532b7c17aff",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_up2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a5578d57-bab3-4c3c-bb9b-6243ea2ed4b3",
+            "Value": {
+                "id": "ddf08b6a-2435-4dee-9e0e-7dd9164a8838",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_19.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a6ea2c98-a9af-4a27-97fd-13ea6660a7e5",
+            "Value": {
+                "id": "2be8d763-9a0c-4df1-8aa4-285f66d5a6b4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\vine_bottom.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a720c734-1d6e-4713-ad81-8f67585ba074",
+            "Value": {
+                "id": "2135dc94-8341-4170-a6da-bb4b203b33d4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_22.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a783e1fd-9bff-4112-adca-67387817f389",
+            "Value": {
+                "id": "ed8eeb6a-4724-4252-9c4a-cf8f4d3b3cfb",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_17.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a7b902a9-c190-495f-8ee5-b42ec1bccb1a",
+            "Value": {
+                "id": "1770c491-1b89-4e4c-9fb2-84f11af3f529",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_switch2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a7d73cc9-19c4-46c7-a0c5-e57a01fbf39e",
+            "Value": {
+                "id": "b556928c-3557-48c8-b406-e139a1a7edc8",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\keyRed.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a7eafe5c-ec8c-4691-acd7-b6aa4ab7dc56",
+            "Value": {
+                "id": "3d3c1dd6-64e0-43bf-9b79-148a120aa07b",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_27.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a8812120-d874-46e1-91b9-2d8146db3572",
+            "Value": {
+                "id": "06d48aef-127e-4b0d-abba-8d21d8f137e3",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantTop_leaves.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a8980e73-2c9f-43cd-b869-491518659289",
+            "Value": {
+                "id": "d9782ef7-6b61-4b65-bd6d-a17928aa5ac9",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_walk2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "6ba066fd-e782-406f-9d27-5515fef81d8c",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a9e0714d-48cf-4545-95ba-a3d7b28d5bd4",
+            "Value": {
+                "id": "87175cea-56a5-47c8-8c22-2c9a9ec93cf8",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantDark_3.png.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -127,11 +2471,259 @@
             }
         },
         {
+            "Key": "ab22fb31-ca16-4ffc-8269-412e5f4b1882",
+            "Value": {
+                "id": "2bae151d-d5fe-4b31-92a9-934e5531fbac",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\lockGreenBottom.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ab34a7b9-4a21-49fc-aef3-fee5134c2e2d",
+            "Value": {
+                "id": "2ec95b06-c962-4836-a921-82a66d6bebf6",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_08.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ab89f674-e628-4db1-9349-ea3567b4220a",
+            "Value": {
+                "id": "50ac20ed-1a05-4f5a-8451-99047a0e601a",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\flagGreen_down.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ac160edf-a2a7-48fb-be1f-e39020cf3a99",
+            "Value": {
+                "id": "8d0c4045-8a00-467e-875e-02daa622eddd",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\outlineCrystal.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ac4a29d5-bca8-4d0e-99b1-178079f73604",
+            "Value": {
+                "id": "9cea52c5-649b-46b4-ba29-2ae50a76763d",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\blockBrown.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ad386ccb-6649-4a94-be86-fadd2faf3819",
+            "Value": {
+                "id": "1f951bf2-c9ac-4adb-8f1a-3ad7def5cb91",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_07.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ad9d9ad5-4af5-476a-9ce0-862b7f805b7b",
+            "Value": {
+                "id": "da847fa3-c544-46ac-a283-2a4a0393f3b5",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_stand.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ae174133-6f37-46da-bdb3-66857bc61828",
+            "Value": {
+                "id": "092aa0b2-3440-4e6b-8bb2-e467b4b5f6b0",
+                "resourcePath": "datafiles_yy\\Assets\\Vector\\vector_complete.svg.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ae4f660e-c3e3-4acf-b324-388796ff63d3",
+            "Value": {
+                "id": "1411017e-733f-48e6-88ff-129a72bc7ba6",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\blockRed.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "af4ac17c-dcea-4ba8-9e60-90f76fb4d0d3",
+            "Value": {
+                "id": "370bd28b-5f31-4e70-88bd-a562ebd1da80",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_27.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "af95621f-2f12-45a5-a584-8372e3b1b600",
+            "Value": {
+                "id": "ba28ba42-cc11-420b-ac59-1f7f08893275",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_switch2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "afabf586-2ba7-41ce-b923-312c333cc4b2",
+            "Value": {
+                "id": "5d8e810e-8a39-42ee-82f7-ce7a18c70981",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyFlying_3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b065ff44-473d-43e0-99b1-48875c496ff0",
+            "Value": {
+                "id": "5ae14bdf-8ddc-4dd5-8fda-4fe27d9504c6",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_05.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b08971e5-e41c-4936-b1ec-61134e3d00b6",
+            "Value": {
+                "id": "39ef77dd-ab05-4586-8349-3556670e6987",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\blockGreen_puzzle.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b258b7b8-1e30-499c-98e7-d16c4b6b1413",
+            "Value": {
+                "id": "df5925a7-dff5-404e-bdb9-d7672b2f9a65",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\switchGreen_mid.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b2cc9ba8-e8e6-455c-85b3-25c17343ae1f",
+            "Value": {
+                "id": "660de362-e9e8-4de7-a048-fa2407c2a708",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_up3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b45fbcab-b90d-427a-8dbe-8fac20ec7a73",
+            "Value": {
+                "id": "a406eec1-a085-4143-911b-66a073b51d36",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\vine_bottomAlt.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b56ec86c-6766-4fcc-959e-869b18a40414",
+            "Value": {
+                "id": "ba10e95a-2cf1-40ad-bdbb-76e0ae561930",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_walk1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b6f5fea9-f8a1-4b52-a575-711a70266106",
+            "Value": {
+                "id": "4aa9ffba-4d00-4e3e-9a8e-395dc493d527",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantBlue_5.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b83e3f52-2df5-4171-9f60-24e40b8a1e06",
+            "Value": {
+                "id": "9c310cac-d503-4b3f-b58c-b10202e89e2f",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantStem_vertical.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b8aab5fc-25e3-48cd-9a16-4c13320cbd3f",
+            "Value": {
+                "id": "34e995ce-b371-4b0d-b48f-08251100d0c7",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_dead.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b8bc31b6-8340-41e4-bf51-7d75deb55c9b",
+            "Value": {
+                "id": "265022a8-1cef-464f-9922-a42d51f9b5ab",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\signSmall.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b95f4f9e-3f4e-4adf-9e37-c308c438e9f3",
+            "Value": {
+                "id": "f8b94b60-05bb-4059-b660-d2b537b72533",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_16.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b971efc3-2cc2-49b0-ace3-4455d89c3329",
+            "Value": {
+                "id": "55793d79-3469-497a-aa5a-9960d249119d",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Thumbs.db.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b9cc8dc8-12ee-45cd-bb97-3c77999b40b1",
+            "Value": {
+                "id": "3cd0ce1a-df16-4dbe-8e62-0fefa42f7185",
+                "resourcePath": "views\\b9cc8dc8-12ee-45cd-bb97-3c77999b40b1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ba786f4c-d947-47be-841b-06d2df3c00ee",
+            "Value": {
+                "id": "e6f0ae92-74dd-461e-9d61-c8294ce1387f",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_02.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "badf7e43-ac86-47ec-8dd5-7f34bd6f8e65",
+            "Value": {
+                "id": "d3a8ebef-2460-4400-9a7b-524165b138aa",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_swim1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "bb1dd107-4e43-4d2d-82ea-cacc4add62f9",
+            "Value": {
+                "id": "c7223d19-bc66-4f7b-bf74-a7a69ddbba81",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\ladderWide_top.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "bb22e27c-db33-454d-a52a-db7916c73d8d",
+            "Value": {
+                "id": "2ffffaa3-4adf-4bb8-bfc8-682705fdfbf7",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_10.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "bb629e61-795f-4fb1-9daa-c14d49bd2f59",
+            "Value": {
+                "id": "fdbd5a52-42fb-4589-ab9d-2900fb0086dc",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemySpikey_4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "bbb08761-f44c-4237-9608-d77835ccf122",
             "Value": {
                 "id": "4baa60c2-f3e6-4d8a-bc60-70c49a79ebca",
                 "resourcePath": "views\\bbb08761-f44c-4237-9608-d77835ccf122.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bbd033af-f75e-4fd3-baeb-5431dbe817f6",
+            "Value": {
+                "id": "c89dc7c0-2b4a-4bb1-8ee0-d047e1f7ac9d",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_walk3.png.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -143,11 +2735,75 @@
             }
         },
         {
+            "Key": "bf1a74c7-90bf-41d0-bd76-b66655c4737d",
+            "Value": {
+                "id": "fdb0c9b3-1b37-4e99-a77d-29e0ed67aa5f",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_swim2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "bf7028bd-ec09-443a-840f-11714547a3d1",
+            "Value": {
+                "id": "ce2130fa-4663-454a-8a2a-c1cbae24a203",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\blockGrey.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "bfadf7e9-fe90-417d-9146-095917631332",
             "Value": {
                 "id": "297f12bf-05cc-416e-93a8-42f767b15774",
                 "resourcePath": "views\\bfadf7e9-fe90-417d-9146-095917631332.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bfb7e0fc-c696-42d6-9195-69b546ce0c43",
+            "Value": {
+                "id": "e5e19582-6cf8-43cd-a704-7d3b34b1b9c0",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\lockRed.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c0a42af6-4c74-4d33-8b7f-939ae7a6bce6",
+            "Value": {
+                "id": "e0ff515d-0e4f-4e03-9828-489150182da3",
+                "resourcePath": "objects\\obj_ParentCollision\\obj_ParentCollision.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c0b22eaf-e50e-42c4-9909-e2f583d7f5e7",
+            "Value": {
+                "id": "a38af52e-a224-437e-af3a-d13e082f63db",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\redCrystal.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c0de6de2-e3ab-4c9f-8621-3b06c4776e60",
+            "Value": {
+                "id": "c214d5a7-b302-466c-9b58-89ee3a891e90",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\signArrow_TR.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c1560568-3d2b-4420-9146-261e1122cbe8",
+            "Value": {
+                "id": "f7d0898b-beec-4869-a99f-472adb01e6b5",
+                "resourcePath": "tilesets\\tile_Complete\\tile_Complete.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "c31a4945-aef7-4cbd-9547-9b83ad5f34ae",
+            "Value": {
+                "id": "aae81f06-8271-422e-ac8c-4c795467ee4a",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantStem_Tright.png.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -159,11 +2815,451 @@
             }
         },
         {
+            "Key": "c581b6d0-ef94-4baf-820e-52afdd17d481",
+            "Value": {
+                "id": "1a287282-5700-4e97-ada3-613ea7e8e3cf",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantRed_4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c6caea76-e9ee-4e8f-8f49-490e55587708",
+            "Value": {
+                "id": "dca2a4af-dd03-49c1-8e98-8efcb17ea056",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyWalking_2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c73f14d0-1715-457f-83b3-66bd596c862e",
+            "Value": {
+                "id": "13537402-2750-4a8d-95fa-07e36c1daa4b",
+                "resourcePath": "datafiles_yy\\Assets\\Vector\\vector_complete.swf.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c74990b6-c53c-446e-98a5-8e2a4c143b58",
+            "Value": {
+                "id": "80d14689-0d69-460c-ad9e-f36809db4c02",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\greenJewel.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c74cf1b1-24ee-4dd1-83a9-3e8ebcd9e24f",
+            "Value": {
+                "id": "11686843-88f9-4452-8c17-3c9b0d0aaada",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_06.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c82e950d-f049-4a1d-a866-7c871e548258",
+            "Value": {
+                "id": "7ec82bf8-d49a-41e0-bea4-2843516a5eb3",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_duck.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c89f1d23-009f-47e9-8eba-4d5916b36e09",
+            "Value": {
+                "id": "0942568c-15bf-4fb9-96e5-ee7e7db65fb7",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_walk3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c9c8b39b-d2d5-4389-8e9c-f8573f7ca668",
+            "Value": {
+                "id": "0798c29d-4b71-4fbc-ad19-07769d97e5c0",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_12.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ca21d884-6e01-4e12-ab40-b43fae2dc641",
+            "Value": {
+                "id": "52f719f3-dcb8-43f4-ae89-866179e2e201",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\ladderWide_mid.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "cae535d2-ad45-4a81-98dd-30d1afecd6ff",
+            "Value": {
+                "id": "6c1be9b8-3a17-49fe-8487-28fd0d2a850a",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyFloating_4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "cbad1f15-1083-4885-a284-b04934d2476d",
+            "Value": {
+                "id": "96667f9f-9035-42df-988b-15bec3189d0d",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_18.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "cc90e5e3-a3a2-48d6-96e1-7937b802d915",
+            "Value": {
+                "id": "60ab1a43-e91c-42a1-ac0d-129a9c9cc83e",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\outlineDisc.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "ad2fd670-415f-4bd9-81f7-4e7b923a7ccf",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd0f420b-6070-4139-9afe-802aebe83c6c",
+            "Value": {
+                "id": "00234ed5-0e29-4e27-93d5-b2a5d7326ad4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Backgrounds\\set4_background.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "cdb872a0-591e-4448-85d3-381671acf72e",
+            "Value": {
+                "id": "73358135-4c7b-4c88-b712-088660dd03d0",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_01.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "cdfc060c-a262-4fb3-ba4c-16bc602b3fc8",
+            "Value": {
+                "id": "7958de44-85e3-49b3-9107-75e27723a2ae",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_14.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "cf8f5302-0e94-47fa-8b13-7bfbcade0050",
+            "Value": {
+                "id": "c69862ee-e01b-4c7f-a61c-a99244c5c362",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\buttonGreen.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d085a1a6-cfd6-465b-80a0-c5716ad075fc",
+            "Value": {
+                "id": "b3900d3f-e004-4486-95a6-16a87e7375ed",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_up2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d104873c-633c-4ebf-a377-a67fac5d76e3",
+            "Value": {
+                "id": "90ddf536-d600-4476-8444-6a4ad1a3a648",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_up1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d17bd15d-fb3a-44af-9a68-26259583c518",
+            "Value": {
+                "id": "92825419-7929-4dc9-adca-fd5e18dd4fdf",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\fenceMid.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d21a3735-2cb9-4dae-ad87-127aab2fca98",
+            "Value": {
+                "id": "d98027db-fd62-4093-9df3-0e9ac582d239",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantBlue_1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d2321739-6ec4-4d49-a4dc-ab6d6ed60fbc",
+            "Value": {
+                "id": "81da942f-9aab-40ee-b772-2d3d2a338c05",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_dead.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d24d59b1-9216-4435-b3c5-b9539a1e4bfd",
+            "Value": {
+                "id": "2f5acce1-5b88-42ae-9857-7cd599b67008",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantBlue_3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d29d78ce-ace8-4f77-955a-4c32faebb085",
+            "Value": {
+                "id": "b54b3289-05fc-4af3-9704-49e88c1aa1c3",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\signLarge.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d3cc391a-a3c0-499a-99e6-454eb6728779",
+            "Value": {
+                "id": "ee536726-6f9a-44e1-9cba-0a3b9e9455d6",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantThorns_vertical.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d57f0931-5ce8-4eba-ae9a-8cf4b9893bfc",
+            "Value": {
+                "id": "fe69c7de-c60e-42ff-b1cc-abc285641416",
+                "resourcePath": "views\\d57f0931-5ce8-4eba-ae9a-8cf4b9893bfc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d6d23d83-913c-46fa-b723-d784f0559f9d",
+            "Value": {
+                "id": "d44de715-8c66-402a-b417-582aabbf527a",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_walk3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d7aa3b86-2d66-4947-be1e-34b6a194b30a",
+            "Value": {
+                "id": "e3442a99-3427-4f90-a9e2-644c8f6578da",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_25.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d7d9e0c9-53e4-4df8-862d-5866a8784d1f",
+            "Value": {
+                "id": "74837a45-0cb6-4701-bd86-ec18d1e7f4e8",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\buttonFloor_pressed.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d7defd3b-f50a-4997-af2e-6d48f1dc248f",
+            "Value": {
+                "id": "5e1459eb-6761-400e-8731-bf2bfcd2021a",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_22.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d7f1d829-c5b2-41c1-a362-c6a046bfee29",
+            "Value": {
+                "id": "eeb95fc5-92cb-40cc-9ad1-d5bfba2e38f9",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantDark_1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d816324c-405a-48fb-bc13-0fbd6b8b59ea",
+            "Value": {
+                "id": "d8b82703-1b40-4f54-b6d7-e8944b6b332d",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_23.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d86ab50b-edeb-4046-b96b-82a1b4dbbd57",
+            "Value": {
+                "id": "fbafd122-ea32-4ad8-bf26-7de420c6d194",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\switchRed_on.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d8dfe65a-b5e8-44ce-ab03-8809453cfcae",
+            "Value": {
+                "id": "5ac9c4a8-7922-455b-8f53-442e7eb30ef4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\greenGem.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d999bf38-5f26-4521-b515-ca6ec500e64f",
+            "Value": {
+                "id": "5b406075-6956-40b7-8f4e-4d10cf394672",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_stand.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d9dc142a-57f4-4a80-8580-2f10bad72a3a",
+            "Value": {
+                "id": "3a37abe1-c8b9-442f-8221-d1ebc86659e7",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_swim1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "da50a070-273a-4a8d-90bf-31e714210abb",
+            "Value": {
+                "id": "392e5086-fc9f-40d5-849e-69d491fd7868",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\lockRedLock.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "daaf9f2b-a571-4778-a0e7-bee2e0f89de8",
+            "Value": {
+                "id": "6d6e22e5-a03b-439b-9683-2b63979ca417",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_roll.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "db2161fd-cad4-4d83-8eb8-bcc01a2d48fa",
+            "Value": {
+                "id": "82779338-b582-481a-b369-9d50c29da44d",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyFloating_3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "dbb091a1-21ce-4532-8b00-240e93977b2e",
+            "Value": {
+                "id": "4262e190-9a1e-463b-9c99-1be6e5338507",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_11.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "dc3f0873-114d-4cbf-97e8-b8406dd96be1",
+            "Value": {
+                "id": "d3417134-f23c-4e5d-bb18-c40f39a3c3de",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_04.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "dc4152e7-c81d-4303-a44c-fe4d50bfc4db",
+            "Value": {
+                "id": "64f6a19b-550a-4b7b-a305-cb5c51e6306f",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_up1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "dc75f4c7-7698-4ed0-a822-31f66b8215eb",
+            "Value": {
+                "id": "145ca9c7-a53a-4d4a-a6f9-1a0028c4505c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_22.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "de41dfe3-eaa5-41ff-860a-195d51be0913",
+            "Value": {
+                "id": "53187881-78c6-48e0-9bd5-9e6ee1251573",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\yellowJewel.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "de434113-4755-4212-a47c-eec32157a1b2",
+            "Value": {
+                "id": "5244a54f-d351-45b3-a084-99a92f4c8719",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_up1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "df097e3b-cedf-484d-8477-ffa097281e5c",
+            "Value": {
+                "id": "a5fe62d8-6c6a-4ceb-85af-375865f049e3",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_02.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "df0f09fc-0a36-449c-8d88-07b57a6061a2",
+            "Value": {
+                "id": "6d051c8c-62bd-4a36-b6bc-36f2c1b24dd7",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantGreen_3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "df565f61-25c2-400e-8ccb-5de3e82e06ba",
+            "Value": {
+                "id": "fecde893-62e9-4d54-83e1-669cbefb5dc4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_roll.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "df7d812a-4687-4f06-a9bb-e092cb4e3ee7",
+            "Value": {
+                "id": "043a8ab2-0b9d-40d3-899c-ac082e3f89e4",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantDark_2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e0338aff-7eee-4953-89bc-42491a678f4b",
+            "Value": {
+                "id": "f2401038-b103-4166-b52b-cb3c720c7faa",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\yellowCrystal.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e118397f-aa1c-4cf6-a23e-575002ea02d2",
+            "Value": {
+                "id": "bad139e7-a9cb-4793-9ec0-109b1af31da2",
+                "resourcePath": "objects\\obj_SlopeDown\\obj_SlopeDown.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e1445ee8-fe1d-4f4c-9c7a-ce00d94c16e0",
+            "Value": {
+                "id": "8cb0971c-2743-4c8d-81ff-8f1a6381a598",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_25.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e1cfe5e0-057d-4800-a56a-48e29a18626a",
+            "Value": {
+                "id": "3df5b9ad-93da-45c4-8adc-b883a63eec21",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\redJewel.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e283ba45-bccf-42b6-ab6a-cb8e6ea98704",
+            "Value": {
+                "id": "212fd4b8-2899-4452-b312-dd2037d13b18",
+                "resourcePath": "datafiles_yy\\Assets\\License.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e2da4efd-82f4-45ba-be22-5d2c1d994cd3",
+            "Value": {
+                "id": "54006d5b-92d7-4ee1-866a-5c8dee03b21d",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\fluidBlue_top.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e2f0bec3-e47f-43e1-a9b4-f1b7ba66971f",
+            "Value": {
+                "id": "af35ebc5-d400-4c17-a453-9e79e3424c75",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_12.png.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -175,11 +3271,155 @@
             }
         },
         {
+            "Key": "e53c3f06-e53b-490d-a29b-8229c745f8af",
+            "Value": {
+                "id": "3635422d-b6f4-4298-9711-a99564aad356",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_15.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e5daeaa0-4f42-4698-96ec-7f5f1070326c",
+            "Value": {
+                "id": "bac56869-2e8e-49c0-be89-9c6147920d50",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\fluidBrown.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e6e02705-be22-4c73-a623-bb14a128872a",
+            "Value": {
+                "id": "748c62e8-0d6b-4290-94e7-dde5dc0fdac1",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\flagGreen_up.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e701d10b-ca6a-4878-9f84-6e1836db23ff",
+            "Value": {
+                "id": "a5d0a578-fc07-48be-91ec-6b8124da2d39",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_24.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e719b657-0402-449c-bcb5-4b95d6219ecd",
+            "Value": {
+                "id": "6dd737b4-c6a5-4ef2-8521-290c2e1a4e8b",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_walk2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e83c59af-d3a7-42f8-a5ff-fcee6f5e2f71",
+            "Value": {
+                "id": "e5311c67-6d8a-4401-9fb7-d7d1a59295a1",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\buttonRed_pressed.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e996a8ff-5247-4f63-91d6-5c238bd0fbfc",
+            "Value": {
+                "id": "ce6a883c-514e-4c3e-bee4-4aaaf03011c1",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_16.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ea28e2d9-4478-49c4-9e61-4085cc5928aa",
+            "Value": {
+                "id": "27257503-ae7b-417f-98c8-843cd624e805",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyFloating_2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ea56a4b2-c1a5-482c-8201-5e89289322c9",
+            "Value": {
+                "id": "0f559b93-0f2c-4ada-8eb0-e18d6225cd2e",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantGreen_2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ead4c281-fef2-4c8e-994b-a6ee8e65ecd4",
+            "Value": {
+                "id": "fbad638c-561c-48a0-b7ae-785b4da100cc",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_19.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "ec68225f-f188-47cd-a59d-d23230777ad9",
             "Value": {
                 "id": "945b0501-c826-452b-aba1-8039c8918dc7",
                 "resourcePath": "views\\ec68225f-f188-47cd-a59d-d23230777ad9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ededaed1-222b-410e-a54a-fc7101d8d136",
+            "Value": {
+                "id": "7e94bb30-f4fe-4854-bf97-ad0f39834de5",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_05.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "efaaa140-23c6-47d3-970b-9154c33d7c3e",
+            "Value": {
+                "id": "f34263b8-e130-46e8-8221-a8558f245841",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_18.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "efad4851-2c90-4a8f-a54f-871a41589a0d",
+            "Value": {
+                "id": "5b346d47-1282-47cb-bd3f-cfac4337303d",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_23.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f09d5217-24b5-44a9-bdcb-04880ec32067",
+            "Value": {
+                "id": "ef110792-6454-4d6a-a6d8-4723a7b5e9c5",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\signArrow_right.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f0f67f1b-694e-4e96-9795-0a69a6621089",
+            "Value": {
+                "id": "f0c672b1-1d86-441d-a8fa-deb005ef98e2",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Backgrounds\\set1_tiles.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f0fc795a-a90e-473c-9a7c-3adac7185f21",
+            "Value": {
+                "id": "7d7772f7-642b-4e32-9a25-956d50eaba90",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_07.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f20c9f58-f288-4df0-9f6e-82caebcaeed3",
+            "Value": {
+                "id": "b0719d06-5239-493a-a5a4-e7ccef0a12a3",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemyFlyingAlt_3.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f21e25d7-5b62-4abb-94db-b1e35ae8bcf3",
+            "Value": {
+                "id": "339b4abe-2b45-43a3-a798-5442b9259e50",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\buttonRed.png.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -191,6 +3431,38 @@
             }
         },
         {
+            "Key": "f2fcce67-e3c9-42f9-b3ce-0f4d8f6ddf8b",
+            "Value": {
+                "id": "d521bbd3-cf80-493c-bb25-1e44dc813174",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_17.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f3b4d089-7524-4469-b31f-1abe5996983c",
+            "Value": {
+                "id": "b71c1fc3-c963-4b8a-987a-ac5acb5d6f92",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Grey\\playerGrey_walk4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f3c082d7-99af-41b3-b181-230883035cd6",
+            "Value": {
+                "id": "5930ce1c-d5f0-4684-aae4-ed1dddf27fff",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_27.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f3ddc9ee-0e0f-4124-9d04-bc20c09dc2ee",
+            "Value": {
+                "id": "1ea3356e-143c-428d-b79e-29dc034e97f8",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_07.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "056549da-7de5-4691-97b6-23fb82e35ed9",
@@ -199,11 +3471,187 @@
             }
         },
         {
+            "Key": "f44dba78-8d63-4da5-acf5-9549f7df957b",
+            "Value": {
+                "id": "e68fe5ca-223f-4b04-8d69-a5577556b35c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantGreen_4.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f5bb2199-55c8-4056-9cee-6acc9496006a",
+            "Value": {
+                "id": "f1e2b980-f818-4418-9752-09da8133f34d",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_hit.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f5c2fa78-a1b4-4906-890d-e19f48862834",
+            "Value": {
+                "id": "a02bf5bd-19ea-4307-bb4e-c9fd83824c7f",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\lockRedLeft.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f650c36f-f1e1-4fc2-8ae8-e9aceb63e68d",
+            "Value": {
+                "id": "2a15b659-4ad1-4762-9046-b97057019cbd",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Green\\playerGreen_up2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f6e8b220-3dbe-4a5a-9dd0-ca3c2f9af79d",
+            "Value": {
+                "id": "ca4d7db8-7384-4eef-bb94-61885ae8163c",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\plantBlue_2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f7172ecd-ac98-4ee0-bc62-bc30e939023a",
+            "Value": {
+                "id": "b926d921-8249-4372-a4e3-eedf3a20795b",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Green tiles\\tileGreen_04.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f79d0a52-60c7-4868-83b4-4ea4066a62dc",
+            "Value": {
+                "id": "517605fd-ee57-4377-810b-adb77a303bd0",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_26.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "f79fbcdb-55a1-42df-a7cb-cf46a7260e76",
             "Value": {
                 "id": "6a4b5b9b-8f6b-484f-860f-a3e9c31de34e",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f814721d-0d00-40ac-8876-4076c0a2c065",
+            "Value": {
+                "id": "d38554ed-b06e-4664-8b8b-363f60707148",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\outlineGem.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f900de45-7659-44e8-8507-1c5aa9477c73",
+            "Value": {
+                "id": "6d8bbad9-0236-43c5-895e-ebfc2ef8b16e",
+                "resourcePath": "views\\f900de45-7659-44e8-8507-1c5aa9477c73.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f908634b-896b-4404-8cdb-be1329fa9bd2",
+            "Value": {
+                "id": "0b023fa3-1b44-4752-94cb-2d036f46ce5e",
+                "resourcePath": "views\\f908634b-896b-4404-8cdb-be1329fa9bd2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f9f3be06-2340-4968-92fc-e44ad84b0da9",
+            "Value": {
+                "id": "f1078210-cc04-4aa2-bfa0-5137279a6049",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Items\\redGem.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fb1f7958-3887-482b-be9c-e4ac203d40e1",
+            "Value": {
+                "id": "6d97aa0f-ec02-4da8-aff5-68296c2290b0",
+                "resourcePath": "datafiles_yy\\Assets\\Spritesheet\\spritesheet_enemies.xml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fbcf97c1-4c3a-4159-a460-bb30a3458591",
+            "Value": {
+                "id": "d19b932d-2cd0-4e61-b537-e79d0dc73173",
+                "resourcePath": "views\\fbcf97c1-4c3a-4159-a460-bb30a3458591.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fcfedaf9-d04a-42d5-8e9e-f9f324070b88",
+            "Value": {
+                "id": "6265298e-66ef-4fa9-b016-7855c0900238",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_switch2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fd956d30-0f7d-457c-826a-a4ee43c2a8f8",
+            "Value": {
+                "id": "586e1de9-31b2-4f7d-8cd0-8f3160893924",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Enemies\\enemySpikey_2.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "febf2028-40ef-49ff-a7d2-c9c954a59ca2",
+            "Value": {
+                "id": "95ea29dc-09c9-4696-8cdf-c73cc392ebfd",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\fenceLeft.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fed3b932-502d-424f-98f7-eefccebeeaa0",
+            "Value": {
+                "id": "1527173d-a093-4130-a8d5-38b0541d96de",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Blue\\playerBlue_walk1.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fedc83ce-24ce-4d7d-8b48-fc90036c2776",
+            "Value": {
+                "id": "0b0afeb8-b171-4d47-827a-507a24283b2b",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Backgrounds\\set4_hills.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fef083b2-f860-4221-afb5-2ab37f8f1174",
+            "Value": {
+                "id": "17bc0cf2-4834-4c77-801d-9bda371dc6cd",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Players\\Player Red\\playerRed_walk5.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fef49037-1e86-4f5d-bf3c-b1332d79e2bd",
+            "Value": {
+                "id": "e45cca28-4f57-494f-af86-cd7df6b10ffe",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Other\\flagRed_down.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ffc60fe0-740b-45f2-b182-3352dbde10d3",
+            "Value": {
+                "id": "a3c8145b-4d86-4157-ac38-71e97b944589",
+                "resourcePath": "datafiles_yy\\Assets\\Spritesheet\\spritesheet_tiles.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ffe8d2f3-34e3-4766-8081-8c8bf7a6d2ae",
+            "Value": {
+                "id": "66d817a8-0729-4423-9dd1-55f873505217",
+                "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Yellow tiles\\tileYellow_03.png.yy",
+                "resourceType": "GMIncludedFile"
             }
         }
     ],
