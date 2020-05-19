@@ -1,14 +1,14 @@
-speeddir = 1;
-speedver = 0;
-speedhor = 0;
+//Initialization
+speed_vertical = 0;
+speed_horizontal = 0;
+direction_saved = 1;
+dead = false;
+
 
 //Paramètres
-speedmax = 10;
-speedadd= 0.2;
-speeddecay = speedadd * 4;
-speedjump = 10;
-
-grav = 0.5;
-
-//gravity_direction = 270;
-//gravity = 0.1;
+speed_horizontal_max = 10;
+speed_vertical_max = 15;
+speed_addition= 1;
+speed_decay = speed_addition * 4;
+jump_height = 15;
+jump_gravity = 1;
