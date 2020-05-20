@@ -1671,14 +1671,6 @@
             }
         },
         {
-            "Key": "70ee935b-85c7-435a-a96f-a367d79f6d11",
-            "Value": {
-                "id": "e52d9e26-7fc9-466f-a17a-b56a095a01b8",
-                "resourcePath": "scripts\\macros\\macros.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "72a3be7d-279a-4be4-9f68-6f4655d2296c",
             "Value": {
                 "id": "48152f3b-5b92-4b58-94d3-24c935b89920",
@@ -3824,8 +3816,7 @@
         }
     ],
     "script_order": [
-        "fb92157e-6279-4442-b8c5-422d8dd8eb6b",
-        "70ee935b-85c7-435a-a96f-a367d79f6d11"
+        "fb92157e-6279-4442-b8c5-422d8dd8eb6b"
     ],
     "tutorial": ""
 }

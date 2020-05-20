@@ -1,43 +1,50 @@
 event_inherited();
 
 //////MOUVEMENTS//////	
-if(!dead)//Si l'animation de mort n'est pas en cours
+
+//Si le joueur n'est pas déjà mort
+if(!dead)
 {
-	//Ajoute de la vitesse dans direction appropriée en fonction du bouton pressé
-	//Check les boutons de direction & saut qui sont actuellement pressé
+	//Check les boutons de direction & saut qui sont actuellement pressés
 	var key_right = (keyboard_check(vk_right) || keyboard_check(ord("D")));
 	var key_left = -(keyboard_check(vk_left) || keyboard_check(ord("Q")));
 	var key_jump = (keyboard_check_pressed(vk_up) || keyboard_check_pressed(vk_space));
 	var key_down = (keyboard_check(vk_down) || keyboard_check(ord("S")))
 	
+	//Vérifie si le joueur est au sol
 	var can_jump = place_meeting(x,y + 1,obj_Wall);
 
-	//Etabli la direction en fonction des bouttons pressé
+	//Etabli la direction en fonction des bouttons de direction pressés
 	var direction_current = key_right + key_left;
-	if(direction_current != 0) direction_saved = direction_current;
 
+	//Si le joueur a changé de direction, annuler l'inertie
 	if(direction_current != sign(speed_horizontal)) speed_horizontal = 0;
 	
-	//Accélère horizontalement dans la limite maximum de vitesse
+	//Calcule la vitesse horizontale du joueur dans la limite maximum
 	speed_horizontal = clamp(speed_horizontal + (direction_current * speed_addition),-speed_horizontal_max,speed_horizontal_max);
 	
-	//Ralenti le joueur si rien n'est pressé et qu'il n'est pas à l'arrêt
-	if(direction_current == 0) 
-	{
-		speed_horizontal-= speed_decay * sign(speed_horizontal);
-		if(speed_horizontal < speed_decay && speed_horizontal > -speed_decay) speed_horizontal = 0;
-	}
-	
-	//Vérifie si le joueur est au sol et le bouge verticalement s'il appuie sur saut
+	//Vérifie si le joueur est au sol 
 	if(can_jump)
 	{
+		//Calcule la vitesse verticale du joueur si il a appuyé sur le bouton de saut
 		speed_vertical = key_jump * -jump_height;
-		if(key_jump)audio_play_sound(snd_Jump,0,false);
+		
+		//Si le joueur a appuyé sur le bouton saut
+		if(key_jump)
+		{
+			//Joue le son de saut
+			audio_play_sound(snd_Jump,0,false);
+		}
 	}
+	
+	//Transmet les vitesses calculées à la fonction de mouvement avec collision
 	var speed_vector = move_along_wall(speed_horizontal,speed_vertical);
+	
+	//Récupère les vitesses digérées par la fonction
 	speed_vector[0] = speed_horizontal;
 	speed_vector[1] = speed_vertical;
 	
+	///SPRITE
 	//Choisi le sprite approprié en fonction du mouvement
 	if(!can_jump)
 	{
@@ -61,22 +68,31 @@ if(!dead)//Si l'animation de mort n'est pas en cours
 		}
 	}
 	
-	/////MORT/////
+	/////MORT OU VICTOIRE/////
+	//Si le joueur touche un ennemi
 	if(place_meeting(x,y,obj_Enemy))
 	{
 		var touched_enemy = noone;
+		
+		//Execute le code suivant par tous les instances d'ennemis
 		with(obj_Enemy)
 		{
+			//Si l'ennemi n'est pas mort ou en train de mourir
 			if(!dead && !dying)
 			{
+				//Si l'ennemi touche le joueur
 				if(place_meeting(x,y,obj_Player)) 
 				{
-					var touched_enemy = id;
+					//Sauvegarde la référence de l'ennemi
+					touched_enemy = id;
 				}
 			}
 		}
+		
+		//Si le joueur a touché un ennemi validé
 		if(touched_enemy != noone)
 		{
+			
 			if(touched_enemy.y - stomp_tolerance> y + sprite_height/2)
 			{
 				touched_enemy.dying = true;
