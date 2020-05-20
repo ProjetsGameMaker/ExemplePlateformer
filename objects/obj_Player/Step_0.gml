@@ -1,17 +1,12 @@
-//Applique la gravité
-if (speed_vertical < speed_vertical_max) 
-{
-	speed_vertical += jump_gravity;
-}
+event_inherited();
 
 //////MOUVEMENTS//////	
 if(!dead)
 {
-	
 	//Ajoute de la vitesse dans direction appropriée en fonction du bouton pressé
 	var key_right = (keyboard_check(vk_right) || keyboard_check(ord("D")));
 	var key_left = -(keyboard_check(vk_left) || keyboard_check(ord("Q")));
-	var key_jump = (keyboard_check(vk_up) || keyboard_check(vk_space));
+	var key_jump = (keyboard_check_pressed(vk_up) || keyboard_check_pressed(vk_space));
 	var key_down = (keyboard_check(vk_down) || keyboard_check(ord("S")))
 	
 	var can_jump = place_meeting(x,y + 1,obj_Wall);
@@ -21,7 +16,8 @@ if(!dead)
 	if(direction_current != 0) direction_saved = direction_current;
 
 	if(direction_current != sign(speed_horizontal)) speed_horizontal = 0;
-	//Bouge le joueur horizontalement dans la limite maximum de vitesse
+	
+	//Accélère horizontalement dans la limite maximum de vitesse
 	speed_horizontal = clamp(speed_horizontal + (direction_current * speed_addition),-speed_horizontal_max,speed_horizontal_max);
 	
 	//Ralenti le joueur si rien n'est pressé et qu'il n'est pas à l'arrêt
@@ -36,29 +32,9 @@ if(!dead)
 	{
 		speed_vertical = key_jump * -jump_height;
 	}
-	
-	//////COLLISIONS///////
-	//Vérifie s'il y a collision avec un mur horizontalement et avance le joueur au maximum
-	if(place_meeting(x + speed_horizontal,y - 5,obj_Wall))
-	{
-		while(!place_meeting(x + sign(speed_horizontal),y - 5,obj_Wall))
-		{
-			x+= sign(speed_horizontal);
-		}
-		speed_horizontal = 0;
-	}
-	x+= speed_horizontal;
-
-	//Vérifie s'il y a collision avec un sol verticalement et avance le joueur au maximum
-	if(place_meeting(x,y + speed_vertical,obj_Wall))
-	{
-		while(!place_meeting(x,y + sign(speed_vertical),obj_Wall)) 
-		{
-			y+= sign(speed_vertical);
-		}
-		speed_vertical = 0;
-	}
-	y+= speed_vertical;
+	var speed_vector = move_along_wall(speed_horizontal,speed_vertical);
+	speed_vector[0] = speed_horizontal;
+	speed_vector[1] = speed_vertical;
 	
 	//Choisi le sprite approprié en fonction du mouvement
 	if(!can_jump)
@@ -82,24 +58,67 @@ if(!dead)
 			sprite_index = spr_PlayerIdle;
 		}
 	}
-	image_xscale = direction_saved;
-	image_speed = speed_horizontal/10;
 	
 	/////MORT/////
+	if(place_meeting(x,y,obj_Enemy))
+	{
+		var touched_enemy = noone;
+		with(obj_Enemy)
+		{
+			if(!dead && !dying)
+			{
+				if(place_meeting(x,y,obj_Player)) 
+				{
+					var touched_enemy = id;
+				}
+			}
+		}
+		if(touched_enemy != noone)
+		{
+			if(touched_enemy.y - stomp_tolerance> y + sprite_height/2)
+			{
+				touched_enemy.dying = true;
+				touched_enemy.speed_vertical = -jump_height;
+				speed_vertical = -jump_height/1.5;
+			}
+			else
+			{
+				dying = true;
+			}
+		}
+	}
 	if(place_meeting(x,y,obj_Danger))
 	{
 		speed_horizontal = 0;
-		dead = true;
-		speed_vertical = -jump_height * 1.5;
-		sprite_index = spr_PlayerHurt;
-		alarm[0] = room_speed * 1;
+		dying = true;
 	}
 	else if(place_meeting(x,y,obj_Trigger))
 	{
-		game_end();
+		if(room == room_last) 
+		{
+			game_end();
+		}
+		else 
+		{
+			room_goto_next();
+		}
 	}
 }
 else
 {
-	y+=speed_vertical;
+	if(y - sprite_height > room_height)
+	{
+		room_restart();
+	}
+	else
+	{
+		y+=speed_vertical;
+	}
+}
+if(dying)
+{
+	dead = true;
+	dying = false;
+	speed_vertical = -jump_height * 1.5;
+	sprite_index = spr_PlayerHurt;
 }
