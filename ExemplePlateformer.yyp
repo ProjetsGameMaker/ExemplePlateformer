@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "1f566884-cca6-4d82-bec0-91b71a4b76b5",
+            "Value": {
+                "id": "a809c712-80ba-496c-8d93-7c7639e71386",
+                "resourcePath": "sounds\\snd_ThemeDark\\snd_ThemeDark.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1f58f1e2-0c36-421c-8a94-2fd6d71bc825",
             "Value": {
                 "id": "dfc9ec9e-4a00-438b-bebf-5e6bbfce1ff5",
@@ -1391,6 +1399,14 @@
             }
         },
         {
+            "Key": "64bd5a8e-b959-43fb-9443-77f7329a866f",
+            "Value": {
+                "id": "489c47a3-fc12-4010-b60e-2f0c35d14937",
+                "resourcePath": "sounds\\snd_Theme\\snd_Theme.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "64da4d53-4727-4c24-b499-ca68e1c15f22",
             "Value": {
                 "id": "8548dbdd-79de-4fe1-8787-c0b13eb97e27",
@@ -2103,11 +2119,27 @@
             }
         },
         {
+            "Key": "900ea88d-6d9b-4f66-be0e-ac8ac1b101bf",
+            "Value": {
+                "id": "b195e594-1228-49ca-ad8f-07526d3837aa",
+                "resourcePath": "sounds\\snd_Jump\\snd_Jump.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "9025c6fc-4c35-4450-b1d6-4054d4ad8ec9",
             "Value": {
                 "id": "6d4de459-7d9a-4b28-ba6a-4381f25a6d00",
                 "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Brown tiles\\tileBrown_05.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "90ef612d-619c-41bf-8332-a41571a3bc70",
+            "Value": {
+                "id": "eb17e2b9-ca9b-497b-b805-2e6dd1caa2b0",
+                "resourcePath": "sounds\\snd_Win\\snd_Win.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -2431,6 +2463,14 @@
             }
         },
         {
+            "Key": "a45417da-f431-46cd-b006-68b6323a8fa6",
+            "Value": {
+                "id": "57c00a8b-85dc-4720-9013-d5b166add53c",
+                "resourcePath": "sounds\\snd_EnemyDeath\\snd_EnemyDeath.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a4a23485-6b08-4f50-a94a-88e358979ac3",
             "Value": {
                 "id": "0ffcf085-9bec-4016-8f90-42bb896096b7",
@@ -2460,6 +2500,14 @@
                 "id": "ddf08b6a-2435-4dee-9e0e-7dd9164a8838",
                 "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_19.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a57d7820-805f-4f27-a522-67e3c8052964",
+            "Value": {
+                "id": "525a125e-8939-4b0f-af99-9cc6c33df732",
+                "resourcePath": "sounds\\snd_PlayerDeath\\snd_PlayerDeath.yy",
+                "resourceType": "GMSound"
             }
         },
         {

@@ -1,9 +1,10 @@
 event_inherited();
 
 //////MOUVEMENTS//////	
-if(!dead)
+if(!dead)//Si l'animation de mort n'est pas en cours
 {
 	//Ajoute de la vitesse dans direction appropriée en fonction du bouton pressé
+	//Check les boutons de direction & saut qui sont actuellement pressé
 	var key_right = (keyboard_check(vk_right) || keyboard_check(ord("D")));
 	var key_left = -(keyboard_check(vk_left) || keyboard_check(ord("Q")));
 	var key_jump = (keyboard_check_pressed(vk_up) || keyboard_check_pressed(vk_space));
@@ -31,6 +32,7 @@ if(!dead)
 	if(can_jump)
 	{
 		speed_vertical = key_jump * -jump_height;
+		if(key_jump)audio_play_sound(snd_Jump,0,false);
 	}
 	var speed_vector = move_along_wall(speed_horizontal,speed_vertical);
 	speed_vector[0] = speed_horizontal;
@@ -80,10 +82,12 @@ if(!dead)
 				touched_enemy.dying = true;
 				touched_enemy.speed_vertical = -jump_height;
 				speed_vertical = -jump_height/1.5;
+				audio_play_sound(snd_EnemyDeath,0,false);
 			}
 			else
 			{
 				dying = true;
+				audio_play_sound(snd_PlayerDeath,0,false);
 			}
 		}
 	}
@@ -94,6 +98,7 @@ if(!dead)
 	}
 	else if(place_meeting(x,y,obj_Trigger))
 	{
+		audio_play_sound(snd_Win,0,false);
 		if(room == room_last) 
 		{
 			game_end();
