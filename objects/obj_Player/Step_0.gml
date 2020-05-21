@@ -1,3 +1,4 @@
+//Récupère le code de l'objet parent (obj_ParentLiving)
 event_inherited();
 
 //////MOUVEMENTS//////	
@@ -72,12 +73,13 @@ if(!dead)
 	//Si le joueur touche un ennemi
 	if(place_meeting(x,y,obj_Enemy))
 	{
+		//Prépare une variable locale pour recevoir l'id de l'instance touchée et validé, qui vaudra noone si aucune instance valide n'est trouvée
 		var touched_enemy = noone;
 		
 		//Execute le code suivant par tous les instances d'ennemis
 		with(obj_Enemy)
 		{
-			//Si l'ennemi n'est pas mort ou en train de mourir
+			//Si l'instance d'ennemi est valide (pas mort ou en train de mourir)
 			if(!dead && !dying)
 			{
 				//Si l'ennemi touche le joueur
@@ -92,54 +94,86 @@ if(!dead)
 		//Si le joueur a touché un ennemi validé
 		if(touched_enemy != noone)
 		{
-			
+			//Si le joueur se situe en haut de l'ennemi
 			if(touched_enemy.y - stomp_tolerance> y + sprite_height/2)
 			{
+				//Marque l'ennemi comme en train de mourir
 				touched_enemy.dying = true;
+				
+				//Accélère l'ennemi verticalement
 				touched_enemy.speed_vertical = -jump_height;
+				
+				//Fait rebondir le joueur
 				speed_vertical = -jump_height/1.5;
+				
+				//Joue le son de mort d'ennemi une fois
 				audio_play_sound(snd_EnemyDeath,0,false);
 			}
+			//Sinon
 			else
 			{
+				//Marque le joueur comme mourant
 				dying = true;
-				audio_play_sound(snd_PlayerDeath,0,false);
+				
 			}
 		}
 	}
+	//Si le joueur rentre en collision avec un carré danger
 	if(place_meeting(x,y,obj_Danger))
 	{
+		//Stoppe le joueur
 		speed_horizontal = 0;
+		
+		//Marque le comme mourrant
 		dying = true;
 	}
+	//Sinon si le joueur rentre en collision avec un carré trigger
 	else if(place_meeting(x,y,obj_Trigger))
 	{
+		//Joue le son de victoire une fois
 		audio_play_sound(snd_Win,0,false);
+		
+		//Si la pièce actuelle est la dernière dans la liste
 		if(room == room_last) 
 		{
-			game_end();
+			//Programme l'évenement alarme 1 quand le son de victoire sera terminé
+			alarm[1] = audio_sound_length(snd_Win);
 		}
+		//Sinon
 		else 
 		{
+			//Passe à la pièce suivante
 			room_goto_next();
 		}
 	}
 }
+//Sinon (Si le joueur est mort)
 else
 {
+	//Si le joueur a atteint le bas de la pièce
 	if(y - sprite_height > room_height)
 	{
+		//Redémarrez la pièce
 		room_restart();
 	}
+	//Sinon
 	else
 	{
+		//Faites le bouger vers le bas
 		y+=speed_vertical;
 	}
 }
+
+//Si le joueur est mourant
 if(dying)
 {
+	//Jouer le son de mort une fois
+	audio_play_sound(snd_PlayerDeath,0,false);
+	//Marquer le joueur comme mort et non plus mourant
 	dead = true;
 	dying = false;
+	
+	
 	speed_vertical = -jump_height * 1.5;
 	sprite_index = spr_PlayerHurt;
 }
