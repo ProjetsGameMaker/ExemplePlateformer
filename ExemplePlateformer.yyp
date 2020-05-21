@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "12f217fc-3377-452a-8014-c62aa8b8d752",
+            "Value": {
+                "id": "df16d8d5-f3d3-4361-9b6d-392f22a8ce8b",
+                "resourcePath": "fonts\\font0\\font0.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "15c5f58f-7578-47c8-9021-257b64d2caed",
             "Value": {
                 "id": "7f3303f2-242a-4710-91d9-34d5618ac2fe",
@@ -1578,7 +1586,7 @@
             "Key": "6c16dc1e-ef9d-4e98-bdfe-19626c7a83ee",
             "Value": {
                 "id": "538badb9-82ca-4465-859f-fd3317a73d45",
-                "resourcePath": "sprites\\spr_BackgroundBlue\\spr_BackgroundBlue.yy",
+                "resourcePath": "sprites\\spr_BackgroundSky\\spr_BackgroundSky.yy",
                 "resourceType": "GMSprite"
             }
         },

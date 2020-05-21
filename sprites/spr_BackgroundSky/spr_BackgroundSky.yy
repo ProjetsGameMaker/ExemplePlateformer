@@ -2,7 +2,7 @@
     "id": "6c16dc1e-ef9d-4e98-bdfe-19626c7a83ee",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_BackgroundBlue",
+    "name": "spr_BackgroundSky",
     "For3D": false,
     "HTile": false,
     "VTile": false,
