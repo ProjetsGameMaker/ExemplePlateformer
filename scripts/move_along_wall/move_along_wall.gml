@@ -1,3 +1,7 @@
+///@description move_along_wall()
+///@param speed_h horizontal speed
+///@param speed_v vertical speed
+
 var speed_h = argument0;
 var speed_v = argument1;
 

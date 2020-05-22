@@ -1095,6 +1095,14 @@
             }
         },
         {
+            "Key": "4c6abb23-c166-458d-bb74-665b7a7c9bf2",
+            "Value": {
+                "id": "ea7c580b-87ba-418d-a669-fe9dea50c7b0",
+                "resourcePath": "views\\4c6abb23-c166-458d-bb74-665b7a7c9bf2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "4c9fcb18-f119-44e8-8dd4-64d30a291347",
             "Value": {
                 "id": "4d1dca77-7b3f-469a-98b5-6664cad7ca98",
@@ -3092,6 +3100,14 @@
                 "id": "7958de44-85e3-49b3-9107-75e27723a2ae",
                 "resourcePath": "datafiles_yy\\Assets\\PNG\\Tiles\\Blue tiles\\tileBlue_14.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ce238ebf-4e3d-46c8-82a8-78f843da47c1",
+            "Value": {
+                "id": "be55cb6b-df58-49de-8188-234474b59113",
+                "resourcePath": "views\\ce238ebf-4e3d-46c8-82a8-78f843da47c1.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
