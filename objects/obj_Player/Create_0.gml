@@ -12,7 +12,6 @@ jump_height = 15;
 stomp_tolerance = 5;
 stomp_height = jump_height/1.5;
 deathjump_height = jump_height * 1.5;
-sound_toggle = true;
 
 //Choisi la musique de fond en fonction de la pièce
 switch(room)

@@ -1,3 +1,2 @@
 //Active ou non le son
-sound_toggle = !sound_toggle;
-audio_master_gain(sound_toggle);
+audio_master_gain(!audio_get_master_gain(0));
