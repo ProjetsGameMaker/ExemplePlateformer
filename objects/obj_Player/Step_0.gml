@@ -15,7 +15,7 @@ if(!haswon)
 		var key_down = (keyboard_check(vk_down) || keyboard_check(ord("S")))
 	
 		//Vérifie si le joueur est au sol
-		var can_jump = place_meeting(x,y + 1,obj_Wall);
+		var can_jump = instance_place(x,y + 1,obj_Wall);
 
 		//Etabli la direction en fonction des bouttons de direction pressés
 		var direction_current = key_right + key_left;
